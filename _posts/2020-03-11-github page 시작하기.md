@@ -8,13 +8,6 @@ publish: false
 
 # 깃허브 페이지 시작하기
 
-
-참고 사이트
-1. <https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html>
-
-[toc]
-
-
 ## 1. 새 저장소 만들기(repository)
 
 깃허브 페이지가 될 새 저장소를 만든다. 이때, *Repository name*을 `username.github.io` 으로 짓는다.
