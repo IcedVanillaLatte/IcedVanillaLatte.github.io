@@ -1,11 +1,19 @@
 ---
+<<<<<<< HEAD:_posts/2020-03-10-test again.md
 title: "Post testing"
+=======
+title: "test with StackEdit"
+>>>>>>> parent of ad1c5604... _posts/2020-03-11-test.md updated from https://stackedit.io/:_posts/2020-03-11-test.md
 categories: Markdown
 toc: true
 toc_label: "My TOC"
 ---
 
+<<<<<<< HEAD:_posts/2020-03-10-test again.md
 # Try - 2
+=======
+# Welcome to StackEdit!
+>>>>>>> parent of ad1c5604... _posts/2020-03-11-test.md updated from https://stackedit.io/:_posts/2020-03-11-test.md
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
@@ -149,3 +157,55 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+<<<<<<< HEAD:_posts/2020-03-10-test again.md
+=======
+
+<div class="mermaid">
+graph LR
+	A[Square Rect] -- Link text --> B((Circle))
+	A --> C(Round Rect)
+	B --> D{Rhombus}
+	C --> D
+</div>
+
+-----------
+<div class="mermaid">
+pie title Pets adopted by volunteers
+	"Dogs" : 386
+	"Cats" : 85
+	"Rats" : 15
+</div>
+
+
+<div class="mermaid">
+stateDiagram
+	[*]  --> Still
+	Still -->  [*]
+	Still --> Moving
+	Moving --> Still
+	Moving --> Crash
+	Crash -->  [*]
+</div>
+
+<div class="mermaid">
+gantt
+	title A Gantt Diagram
+	dateFormat YYYY-MM-DD
+	section Section
+	A task :a1, 2014-01-01, 30d
+	Another task :after a1 , 20d
+	section Another
+	Task in sec :2014-01-12 , 12d
+	another task : 24d
+</div>
+
+---------
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI4NjI0MDgwOSwtMTE2NjM4MzcwMiwxMz
+YxNTI2MjAxLDEzOTY1ODYzODgsLTc4NjIxMTM4NiwxMTEwNDU1
+OTEwLDIzNzg2ODMxMywxMjI5NDI4NTg2LDUzMzc3NDQ2LDIxMT
+U4NjM4MzksOTAxMDQyNDMzLC03MDkyOTUwMzEsMTE1ODg1OTQ1
+NSwtOTk1NjE5NDcxXX0=
+-->
+>>>>>>> parent of ad1c5604... _posts/2020-03-11-test.md updated from https://stackedit.io/:_posts/2020-03-11-test.md
