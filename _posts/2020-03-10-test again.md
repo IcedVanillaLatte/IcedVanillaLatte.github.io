@@ -3,6 +3,9 @@
 title: "Post testing"
 =======
 title: "test with StackEdit"
+<<<<<<< HEAD:_posts/2020-03-10-test again.md
+>>>>>>> parent of ad1c5604... _posts/2020-03-11-test.md updated from https://stackedit.io/:_posts/2020-03-11-test.md
+=======
 >>>>>>> parent of ad1c5604... _posts/2020-03-11-test.md updated from https://stackedit.io/:_posts/2020-03-11-test.md
 categories: Markdown
 toc: true
@@ -10,7 +13,11 @@ toc_label: "My TOC"
 ---
 
 <<<<<<< HEAD:_posts/2020-03-10-test again.md
+<<<<<<< HEAD:_posts/2020-03-10-test again.md
 # Try - 2
+=======
+# Welcome to StackEdit!
+>>>>>>> parent of ad1c5604... _posts/2020-03-11-test.md updated from https://stackedit.io/:_posts/2020-03-11-test.md
 =======
 # Welcome to StackEdit!
 >>>>>>> parent of ad1c5604... _posts/2020-03-11-test.md updated from https://stackedit.io/:_posts/2020-03-11-test.md
@@ -207,5 +214,9 @@ YxNTI2MjAxLDEzOTY1ODYzODgsLTc4NjIxMTM4NiwxMTEwNDU1
 OTEwLDIzNzg2ODMxMywxMjI5NDI4NTg2LDUzMzc3NDQ2LDIxMT
 U4NjM4MzksOTAxMDQyNDMzLC03MDkyOTUwMzEsMTE1ODg1OTQ1
 NSwtOTk1NjE5NDcxXX0=
+<<<<<<< HEAD:_posts/2020-03-10-test again.md
+-->
+>>>>>>> parent of ad1c5604... _posts/2020-03-11-test.md updated from https://stackedit.io/:_posts/2020-03-11-test.md
+=======
 -->
 >>>>>>> parent of ad1c5604... _posts/2020-03-11-test.md updated from https://stackedit.io/:_posts/2020-03-11-test.md
