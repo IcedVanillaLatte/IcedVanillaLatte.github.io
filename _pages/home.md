@@ -1,6 +1,6 @@
 ---
 title: "My title"
-layout: splash
+layout: home
 excerpt: "This post should ~ "
 permalink: /
 header:
