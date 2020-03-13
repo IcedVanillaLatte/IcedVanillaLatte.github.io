@@ -19,6 +19,10 @@ publish 할 때, 제목의 띄어쓰기는 상관이 없음.
 | *My caption* |
 
 
+```
+{% include figure image_path="https://github.com/IcedVanillaLatte/chiching/blob/master/assets/abc.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+```
+
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
@@ -163,7 +167,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMDg5ODMwLC0xODc1MTE4ODM5LC0yOT
-YxNzQ2MzUsMTY4Njk2MzIyMywtNjIyNTc1MTYsMTk1ODUxMTE0
-OSwtMjg4ODQwMDUsMTI0MjI4MzIxMyw0MDgxMTg4MjVdfQ==
+eyJoaXN0b3J5IjpbMTY4NDk3NzcyLDY1MTA4OTgzMCwtMTg3NT
+ExODgzOSwtMjk2MTc0NjM1LDE2ODY5NjMyMjMsLTYyMjU3NTE2
+LDE5NTg1MTExNDksLTI4ODg0MDA1LDEyNDIyODMyMTMsNDA4MT
+E4ODI1XX0=
 -->
