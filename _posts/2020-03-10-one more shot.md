@@ -16,7 +16,7 @@ publish 할 때, 제목의 띄어쓰기는 상관이 없음.
 
 | ![image](https://github.com/IcedVanillaLatte/chiching/blob/master/assets/ddd.jpg?raw=true) |
 |:--: |
-| *my caption* |
+| *My caption* |
 
 
 
@@ -163,7 +163,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODIxNTIxNywtMTg3NTExODgzOSwtMj
+eyJoaXN0b3J5IjpbMjAxODg1MDM1MSwtMTg3NTExODgzOSwtMj
 k2MTc0NjM1LDE2ODY5NjMyMjMsLTYyMjU3NTE2LDE5NTg1MTEx
 NDksLTI4ODg0MDA1LDEyNDIyODMyMTMsNDA4MTE4ODI1XX0=
 -->
