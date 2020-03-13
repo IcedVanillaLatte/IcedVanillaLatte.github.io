@@ -7,7 +7,7 @@ toc_sticky: true
 
 sidebar:
   - title: "Title"
-    image: https://github.com/IcedVanillaLatte/icedvanillalatte.github.io/blob/master/assets/images/abc.jpg
+    image: https://github.com/IcedVanillaLatte/icedvanillalatte.github.io/blob/master/assets/images/avatar1.png
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
@@ -179,9 +179,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDExMzEzMjMsMTg2NDQ3NDIwMiwtMz
-UzNzA4MzA3LDE5NjEwMjc1MywtMjk0ODQ1MDA1LDY1MTA4OTgz
-MCwtMTg3NTExODgzOSwtMjk2MTc0NjM1LDE2ODY5NjMyMjMsLT
-YyMjU3NTE2LDE5NTg1MTExNDksLTI4ODg0MDA1LDEyNDIyODMy
-MTMsNDA4MTE4ODI1XX0=
+eyJoaXN0b3J5IjpbMTM3MzM5NjkwMywxODY0NDc0MjAyLC0zNT
+M3MDgzMDcsMTk2MTAyNzUzLC0yOTQ4NDUwMDUsNjUxMDg5ODMw
+LC0xODc1MTE4ODM5LC0yOTYxNzQ2MzUsMTY4Njk2MzIyMywtNj
+IyNTc1MTYsMTk1ODUxMTE0OSwtMjg4ODQwMDUsMTI0MjI4MzIx
+Myw0MDgxMTg4MjVdfQ==
 -->
