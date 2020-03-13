@@ -3,8 +3,6 @@ title: "Post testing"
 categories: Markdown
 toc: true
 toc_label: "My TOC"
-layout: search
-permalink: /search/
 published: true
 ---
 
@@ -160,6 +158,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODUxMTE0OSwtMjg4ODQwMDUsMTI0Mj
-I4MzIxMyw0MDgxMTg4MjUsLTI5NjE3NDYzNV19
+eyJoaXN0b3J5IjpbLTYyMjU3NTE2LDE5NTg1MTExNDksLTI4OD
+g0MDA1LDEyNDIyODMyMTMsNDA4MTE4ODI1LC0yOTYxNzQ2MzVd
+fQ==
 -->
