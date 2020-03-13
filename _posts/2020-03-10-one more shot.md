@@ -3,11 +3,11 @@ title: "Post testing"
 categories: Markdown
 toc: true
 toc_label: "My TOC"
-layout: archive
+layout: search
 published: true
 ---
 
-# Retry-2
+# Retry-3
 
 publish 할 때, 제목의 띄어쓰기는 상관이 없음.
 다만, 경로만 주의하자.
@@ -159,6 +159,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODg0MDA1LDEyNDIyODMyMTMsNDA4MT
-E4ODI1LC0yOTYxNzQ2MzVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjg3MDk2ODQsLTI4ODg0MDA1LDEyND
+IyODMyMTMsNDA4MTE4ODI1LC0yOTYxNzQ2MzVdfQ==
 -->
