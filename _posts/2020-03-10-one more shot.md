@@ -20,7 +20,7 @@ publish 할 때, 제목의 띄어쓰기는 상관이 없음.
 
 ---------
 
-{% include figure image_path="https://github.com/IcedVanillaLatte/chiching/blob/master/assets/abc.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="https://github.com/IcedVanillaLatte/chiching/blob/master/assets/abc.jpg?raw=true" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 ----------
 
@@ -167,8 +167,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDg0NTAwNSw2NTEwODk4MzAsLTE4Nz
-UxMTg4MzksLTI5NjE3NDYzNSwxNjg2OTYzMjIzLC02MjI1NzUx
-NiwxOTU4NTExMTQ5LC0yODg4NDAwNSwxMjQyMjgzMjEzLDQwOD
-ExODgyNV19
+eyJoaXN0b3J5IjpbMTk2MTAyNzUzLC0yOTQ4NDUwMDUsNjUxMD
+g5ODMwLC0xODc1MTE4ODM5LC0yOTYxNzQ2MzUsMTY4Njk2MzIy
+MywtNjIyNTc1MTYsMTk1ODUxMTE0OSwtMjg4ODQwMDUsMTI0Mj
+I4MzIxMyw0MDgxMTg4MjVdfQ==
 -->
