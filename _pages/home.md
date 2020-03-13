@@ -1,8 +1,9 @@
 ---
-layout: splash
 title: "My title"
-excrpt: "This post should ~ "
+layout: splash
+excerpt: "This post should ~ "
 permalink: /
 header:
-    image: /assets/images/header-image.jpg
+    overlay_image: /assets/images/header-image.jpg
+    overlay_filter: 0.5
 ---
