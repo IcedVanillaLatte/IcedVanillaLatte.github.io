@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Post testing"
 categories: Markdown
 toc: true
@@ -159,7 +158,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Njk2MzIyMywtNjIyNTc1MTYsMTk1OD
-UxMTE0OSwtMjg4ODQwMDUsMTI0MjI4MzIxMyw0MDgxMTg4MjUs
-LTI5NjE3NDYzNV19
+eyJoaXN0b3J5IjpbLTI5NjE3NDYzNSwxNjg2OTYzMjIzLC02Mj
+I1NzUxNiwxOTU4NTExMTQ5LC0yODg4NDAwNSwxMjQyMjgzMjEz
+LDQwODExODgyNSwtMjk2MTc0NjM1XX0=
 -->
