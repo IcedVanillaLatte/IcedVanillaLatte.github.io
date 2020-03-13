@@ -12,9 +12,10 @@ publish 할 때, 제목의 띄어쓰기는 상관이 없음.
 다만, 경로만 주의하자.
 파일 제목은 repository에 올라가는 파일 이름일 뿐.
 진짜 포스트의 제목은 Front Matter의 title에 적음.
-![image](https://github.com/IcedVanillaLatte/chiching/blob/master/assets/ddd.jpg?raw=true)
-{:.image-caption}
-*The image_caption*
+
+| sdf
+
+
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
@@ -159,7 +160,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjkwOTcxNiwtMTg3NTExODgzOSwtMj
-k2MTc0NjM1LDE2ODY5NjMyMjMsLTYyMjU3NTE2LDE5NTg1MTEx
-NDksLTI4ODg0MDA1LDEyNDIyODMyMTMsNDA4MTE4ODI1XX0=
+eyJoaXN0b3J5IjpbLTEwOTU4NDg2OTIsLTE4NzUxMTg4MzksLT
+I5NjE3NDYzNSwxNjg2OTYzMjIzLC02MjI1NzUxNiwxOTU4NTEx
+MTQ5LC0yODg4NDAwNSwxMjQyMjgzMjEzLDQwODExODgyNV19
 -->
