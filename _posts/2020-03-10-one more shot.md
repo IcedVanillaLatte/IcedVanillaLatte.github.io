@@ -4,6 +4,15 @@ categories: Markdown
 toc: true
 toc_label: "My TOC"
 toc_sticky: true
+
+sidebar:
+  - title: "Title"
+    image: https://github.com/IcedVanillaLatte/icedvanillalatte.github.io/blob/master/assets/images/abc.jpg
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
 published: true
 ---
 
@@ -170,9 +179,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDQ3NDIwMiwtMzUzNzA4MzA3LDE5Nj
-EwMjc1MywtMjk0ODQ1MDA1LDY1MTA4OTgzMCwtMTg3NTExODgz
-OSwtMjk2MTc0NjM1LDE2ODY5NjMyMjMsLTYyMjU3NTE2LDE5NT
-g1MTExNDksLTI4ODg0MDA1LDEyNDIyODMyMTMsNDA4MTE4ODI1
-XX0=
+eyJoaXN0b3J5IjpbLTIwNDExMzEzMjMsMTg2NDQ3NDIwMiwtMz
+UzNzA4MzA3LDE5NjEwMjc1MywtMjk0ODQ1MDA1LDY1MTA4OTgz
+MCwtMTg3NTExODgzOSwtMjk2MTc0NjM1LDE2ODY5NjMyMjMsLT
+YyMjU3NTE2LDE5NTg1MTExNDksLTI4ODg0MDA1LDEyNDIyODMy
+MTMsNDA4MTE4ODI1XX0=
 -->
