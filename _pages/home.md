@@ -1,7 +1,5 @@
 ---
-title: "My title"
-layout: home
-excerpt: "This post should ~ "
+layout: splash
 permalink: /
 header:
     overlay_image: /assets/images/header-image.jpg
