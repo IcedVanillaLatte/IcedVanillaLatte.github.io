@@ -175,3 +175,6 @@ github 클라이언트를 통해 commit & push 하지 않아도 Atom에서도 pr
 
 github는 kromdown을 사용하기 때문에, 이미지 크기도 바꿀 수 있다. [참고 사이트](https://c10106.tistory.com/3363)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg5MTc2MDUzMl19
+-->
