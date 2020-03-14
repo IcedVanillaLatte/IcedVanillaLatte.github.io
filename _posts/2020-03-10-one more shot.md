@@ -1,6 +1,9 @@
 ---
 title: "Post testing"
 categories: Markdown
+header:
+	image: /assets/images/header-image.jpg
+	caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 toc: true
 toc_label: "My TOC"
 toc_sticky: true
@@ -177,8 +180,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDgyMTUzNSwxODU3NjM3MTM1LC00Nz
-g5MzczNTIsLTE4NTA4MTUwNywxMjYwODIxNTM1LDE4NjQ0NzQy
+eyJoaXN0b3J5IjpbMTM0ODU5MzQ4NywxMjYwODIxNTM1LDE4NT
+c2MzcxMzUsLTQ3ODkzNzM1MiwtMTg1MDgxNTA3LDE4NjQ0NzQy
 MDIsLTM1MzcwODMwNywxOTYxMDI3NTMsLTI5NDg0NTAwNSw2NT
 EwODk4MzAsLTE4NzUxMTg4MzksLTI5NjE3NDYzNSwxNjg2OTYz
 MjIzLC02MjI1NzUxNiwxOTU4NTExMTQ5LC0yODg4NDAwNSwxMj
