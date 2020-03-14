@@ -5,7 +5,7 @@ toc: true
 toc_label: "My TOC"
 toc_sticky: true
 header:
-	image: /assets/images/head-test.jpg?raw=true
+	overlay_color: "#333"
 sidebar:
   - title: "Title"
     image: https://github.com/IcedVanillaLatte/icedvanillalatte.github.io/blob/master/assets/images/avatar1.png?raw=true
@@ -179,11 +179,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzAxNzg4NDUsMTI2MDgyMTUzNSwtMT
-Q0NDY4MjMyMiwtMTkwMjg2Nzg4MiwxMzQ4NTkzNDg3LDEyNjA4
-MjE1MzUsMTg1NzYzNzEzNSwtNDc4OTM3MzUyLC0xODUwODE1MD
-csMTg2NDQ3NDIwMiwtMzUzNzA4MzA3LDE5NjEwMjc1MywtMjk0
-ODQ1MDA1LDY1MTA4OTgzMCwtMTg3NTExODgzOSwtMjk2MTc0Nj
-M1LDE2ODY5NjMyMjMsLTYyMjU3NTE2LDE5NTg1MTExNDksLTI4
-ODg0MDA1XX0=
+eyJoaXN0b3J5IjpbMjAzMzQ0ODI3MCwtMTI3MDE3ODg0NSwxMj
+YwODIxNTM1LC0xNDQ0NjgyMzIyLC0xOTAyODY3ODgyLDEzNDg1
+OTM0ODcsMTI2MDgyMTUzNSwxODU3NjM3MTM1LC00Nzg5MzczNT
+IsLTE4NTA4MTUwNywxODY0NDc0MjAyLC0zNTM3MDgzMDcsMTk2
+MTAyNzUzLC0yOTQ4NDUwMDUsNjUxMDg5ODMwLC0xODc1MTE4OD
+M5LC0yOTYxNzQ2MzUsMTY4Njk2MzIyMywtNjIyNTc1MTYsMTk1
+ODUxMTE0OV19
 -->
