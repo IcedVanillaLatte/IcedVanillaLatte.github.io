@@ -1,6 +1,7 @@
 ---
 title: "Post testing"
 categories: Markdown
+excerpt: "This post should ~"
 header:
 	overlay_color: "#300"
 toc: true
@@ -179,7 +180,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ2ODIzMjIsMTM0ODU5MzQ4NywxMj
+eyJoaXN0b3J5IjpbLTE5MDI4Njc4ODIsMTM0ODU5MzQ4NywxMj
 YwODIxNTM1LDE4NTc2MzcxMzUsLTQ3ODkzNzM1MiwtMTg1MDgx
 NTA3LDE4NjQ0NzQyMDIsLTM1MzcwODMwNywxOTYxMDI3NTMsLT
 I5NDg0NTAwNSw2NTEwODk4MzAsLTE4NzUxMTg4MzksLTI5NjE3
