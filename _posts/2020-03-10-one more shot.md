@@ -1,9 +1,6 @@
 ---
 title: "Post testing"
 categories: Markdown
-excerpt: "This post should ~"
-header:
-	overlay_color: "#300"
 toc: true
 toc_label: "My TOC"
 toc_sticky: true
@@ -180,10 +177,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI4Njc4ODIsMTM0ODU5MzQ4NywxMj
-YwODIxNTM1LDE4NTc2MzcxMzUsLTQ3ODkzNzM1MiwtMTg1MDgx
-NTA3LDE4NjQ0NzQyMDIsLTM1MzcwODMwNywxOTYxMDI3NTMsLT
-I5NDg0NTAwNSw2NTEwODk4MzAsLTE4NzUxMTg4MzksLTI5NjE3
-NDYzNSwxNjg2OTYzMjIzLC02MjI1NzUxNiwxOTU4NTExMTQ5LC
-0yODg4NDAwNSwxMjQyMjgzMjEzLDQwODExODgyNV19
+eyJoaXN0b3J5IjpbMTI2MDgyMTUzNSwtMTQ0NDY4MjMyMiwtMT
+kwMjg2Nzg4MiwxMzQ4NTkzNDg3LDEyNjA4MjE1MzUsMTg1NzYz
+NzEzNSwtNDc4OTM3MzUyLC0xODUwODE1MDcsMTg2NDQ3NDIwMi
+wtMzUzNzA4MzA3LDE5NjEwMjc1MywtMjk0ODQ1MDA1LDY1MTA4
+OTgzMCwtMTg3NTExODgzOSwtMjk2MTc0NjM1LDE2ODY5NjMyMj
+MsLTYyMjU3NTE2LDE5NTg1MTExNDksLTI4ODg0MDA1LDEyNDIy
+ODMyMTNdfQ==
 -->
