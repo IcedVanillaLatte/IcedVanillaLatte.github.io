@@ -1,5 +1,5 @@
 ---
-title: "Layout: Header Overlay with Background Fill"
+title: "Colored Background Layout"
 toc: true
 toc_label: "My TOC"
 toc_sticky: true
@@ -33,5 +33,6 @@ This post tests overlay headers.
 
 ### head 2-1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjUxODc3MSwtMjA4NTY0NjY5Nl19
+eyJoaXN0b3J5IjpbMTUzMzgzMjQxMywtMTg3NzU1NTQyMCwtND
+EyNTE4NzcxLC0yMDg1NjQ2Njk2XX0=
 -->
