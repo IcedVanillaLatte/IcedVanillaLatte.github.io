@@ -14,17 +14,7 @@ header:
 excerpt: "What I am interested in is Cyber Security, Data & Visualization, and English. Actually, I'm not an expert in any kind of field. To tell the truth, this blog pages has been just made for me who forget easily what I had found out. If someone can get some useful information from here, it would be glad to me. Please have a wonderful day and take care."
 ---
 
+<!-->
 <i class="fas fa-map-marker-alt"></i> [Daejeon, Rep. of Korea](https://goo.gl/maps/VVEvFrSGuPw4ofNS9) <i class="fas fa-envelope"></i>
 [E-mail](mailto:chi2ching@gmail.com) <i class="fab fa-fw fa-twitter-square"></i> [Twitter](https://twitter.com/chi2ching) <i class="fab fa-fw fa-facebook-square"></i> [Facebook](https://www.facebook.com/chaechang.lee) <i class="fab fa-fw fa-github"></i> [GitHub](https://github.com/IcedVanillaLatte)
-
-
-
-<!--
-<i class="fas fa-map-marker-alt"></i><a href="https://goo.gl/maps/VVEvFrSGuPw4ofNS9"> Daejeon, Rep. of Korea </a><br>
-<i class="fas fa-envelope"></i> <a href="mailto:chi2ching@gmail.com">E-mail</a><br>
-<i class="fab fa-fw fa-twitter-square"></i> <a href=https://twitter.com/chi2ching>Twitter</a><br>
-<i class="fab fa-fw fa-facebook-square"></i> <a href="https://www.facebook.com/chaechang.lee">Facebook</a><br>
-<i class="fab fa-fw fa-github"></i> <a href="https://github.com/IcedVanillaLatte">GitHub</a><br>
-<i class="fab fa-fw fa-instagram"></i>
-<i class="fas fa-fw fa-link"></i>
 -->
