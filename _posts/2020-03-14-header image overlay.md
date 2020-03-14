@@ -1,7 +1,7 @@
 ---
 title: "Layout: Header Image Overlay"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/head-test.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn more"
@@ -23,5 +23,5 @@ Non-square images can provide some unique styling issues.
 This post tests overlay header images.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTgyNzk5OV19
+eyJoaXN0b3J5IjpbMTUzMTc4Mjk4MiwtNDExODI3OTk5XX0=
 -->
