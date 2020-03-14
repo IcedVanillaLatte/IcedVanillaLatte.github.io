@@ -4,6 +4,9 @@ categories: Markdown
 toc: true
 toc_label: "My TOC"
 toc_sticky: true
+header:
+	image: /assets/images/header-image.jpg
+	caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 sidebar:
   - title: "Title"
     image: https://github.com/IcedVanillaLatte/icedvanillalatte.github.io/blob/master/assets/images/avatar1.png?raw=true
@@ -11,7 +14,7 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
-published: false
+published: true
 ---
 
 # Keep Testing
@@ -177,9 +180,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODkzNzM1MiwtMTg1MDgxNTA3LDEyNj
-A4MjE1MzUsMTg2NDQ3NDIwMiwtMzUzNzA4MzA3LDE5NjEwMjc1
-MywtMjk0ODQ1MDA1LDY1MTA4OTgzMCwtMTg3NTExODgzOSwtMj
-k2MTc0NjM1LDE2ODY5NjMyMjMsLTYyMjU3NTE2LDE5NTg1MTEx
-NDksLTI4ODg0MDA1LDEyNDIyODMyMTMsNDA4MTE4ODI1XX0=
+eyJoaXN0b3J5IjpbMTg1NzYzNzEzNSwtNDc4OTM3MzUyLC0xOD
+UwODE1MDcsMTI2MDgyMTUzNSwxODY0NDc0MjAyLC0zNTM3MDgz
+MDcsMTk2MTAyNzUzLC0yOTQ4NDUwMDUsNjUxMDg5ODMwLC0xOD
+c1MTE4ODM5LC0yOTYxNzQ2MzUsMTY4Njk2MzIyMywtNjIyNTc1
+MTYsMTk1ODUxMTE0OSwtMjg4ODQwMDUsMTI0MjI4MzIxMyw0MD
+gxMTg4MjVdfQ==
 -->
