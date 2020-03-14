@@ -4,7 +4,6 @@ categories: Markdown
 header:
 	overlay_color: "#300"
 	caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-
 toc: true
 toc_label: "My TOC"
 toc_sticky: true
@@ -181,7 +180,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyOTk5Mzg2LC0xOTAyODY3ODgyLDEzND
+eyJoaXN0b3J5IjpbMzU1NzcyMjY4LC0xOTAyODY3ODgyLDEzND
 g1OTM0ODcsMTI2MDgyMTUzNSwxODU3NjM3MTM1LC00Nzg5Mzcz
 NTIsLTE4NTA4MTUwNywxODY0NDc0MjAyLC0zNTM3MDgzMDcsMT
 k2MTAyNzUzLC0yOTQ4NDUwMDUsNjUxMDg5ODMwLC0xODc1MTE4
