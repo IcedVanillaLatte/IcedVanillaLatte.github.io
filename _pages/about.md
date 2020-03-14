@@ -13,6 +13,7 @@ header:
   caption: "Photo by Chiching"
 excerpt: "What I am interested in is Cyber Security, Data & Visualization, and English. Actually, I'm not an expert in any kind of field. To tell the truth, this blog pages has been just made for me who forget easily what I had found out. If someone can get some useful information from here, it would be glad to me. Please have a wonderful day and take care."
 ---
+<i class="fas fa-map-marker-alt"></i>
 <i class="fas fa-envelope"></i> Click on the @icn-camera icon to take a screen shot.
 <i class="fas fa-fw fa-envelope-square"></i>
 <i class="fab fa-fw fa-twitter-square"></i>
