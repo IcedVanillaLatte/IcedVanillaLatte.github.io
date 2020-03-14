@@ -1,8 +1,7 @@
 ---
-title: "Layout: Header Image and Text Readability"
+title: "Layout: Header Image and Text Readability2"
 header:
   image: /assets/images/head-image.jpg
-  caption: "Photo by **Chiching**"
   image_description: "Spring is Coming"
 tags: 
   - sample post
@@ -50,5 +49,6 @@ Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over P
 [^1]: Texture image courtesty of [Lovetextures](http://www.lovetextures.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODEzNzYyMyw5MTA3NTkwNDldfQ==
+eyJoaXN0b3J5IjpbLTE1Njg0NTc1MzEsMTEzODEzNzYyMyw5MT
+A3NTkwNDldfQ==
 -->
