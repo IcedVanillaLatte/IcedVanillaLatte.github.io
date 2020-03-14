@@ -6,6 +6,13 @@ toc_label: "My TOC"
 toc_sticky: true
 header:
 	overlay_color: "#333"
+sidebar:
+  - title: "Title"
+    image: https://github.com/IcedVanillaLatte/icedvanillalatte.github.io/blob/master/assets/images/avatar1.png?raw=true
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 published: true
 ---
 
@@ -172,7 +179,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDQwODk2OSwyMDMzNDQ4MjcwLC0xMj
+eyJoaXN0b3J5IjpbMjAzMzQ0ODI3MCwyMDMzNDQ4MjcwLC0xMj
 cwMTc4ODQ1LDEyNjA4MjE1MzUsLTE0NDQ2ODIzMjIsLTE5MDI4
 Njc4ODIsMTM0ODU5MzQ4NywxMjYwODIxNTM1LDE4NTc2MzcxMz
 UsLTQ3ODkzNzM1MiwtMTg1MDgxNTA3LDE4NjQ0NzQyMDIsLTM1
