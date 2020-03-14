@@ -1,5 +1,5 @@
 ---
-title: "Layout: Header Image Overlay"
+title: "Image Background Layout"
 header:
   overlay_image: /assets/images/head-test.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -23,5 +23,6 @@ Non-square images can provide some unique styling issues.
 This post tests overlay header images.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTc4Mjk4MiwtNDExODI3OTk5XX0=
+eyJoaXN0b3J5IjpbLTExNjM3ODA5LDE1MzE3ODI5ODIsLTQxMT
+gyNzk5OV19
 -->
