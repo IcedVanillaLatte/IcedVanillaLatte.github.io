@@ -19,7 +19,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/smiley-1635463_960_720.png
+  - image_path: /assets/images/teaser.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
@@ -66,6 +66,6 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="center" %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk0MTg0OTEsMTY1NTM4NjgxOSwzMj
-c2OTI0MjcsLTk1NzUyODE4OV19
+eyJoaXN0b3J5IjpbLTEyMDkxMDY1NDcsLTE0ODk0MTg0OTEsMT
+Y1NTM4NjgxOSwzMjc2OTI0MjcsLTk1NzUyODE4OV19
 -->
