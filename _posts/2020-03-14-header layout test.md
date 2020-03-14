@@ -19,6 +19,7 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
+published: true
 ---
 
 ## head 1
@@ -32,5 +33,5 @@ This post tests overlay headers.
 
 ### head 2-1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjk0MzU2NSwtMjA4NTY0NjY5Nl19
+eyJoaXN0b3J5IjpbLTQxMjUxODc3MSwtMjA4NTY0NjY5Nl19
 -->
