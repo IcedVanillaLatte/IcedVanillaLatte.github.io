@@ -1,11 +1,11 @@
 ---
 title: "Post testing"
-categories: Markdown
 toc: true
 toc_label: "My TOC"
 toc_sticky: true
 header:
 	overlay_color: "#333"
+categories: Markdown
 sidebar:
   - title: "Title"
     image: https://github.com/IcedVanillaLatte/icedvanillalatte.github.io/blob/master/assets/images/avatar1.png?raw=true
@@ -179,11 +179,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzQ0ODI3MCwyMDMzNDQ4MjcwLC0xMj
-cwMTc4ODQ1LDEyNjA4MjE1MzUsLTE0NDQ2ODIzMjIsLTE5MDI4
-Njc4ODIsMTM0ODU5MzQ4NywxMjYwODIxNTM1LDE4NTc2MzcxMz
-UsLTQ3ODkzNzM1MiwtMTg1MDgxNTA3LDE4NjQ0NzQyMDIsLTM1
-MzcwODMwNywxOTYxMDI3NTMsLTI5NDg0NTAwNSw2NTEwODk4Mz
-AsLTE4NzUxMTg4MzksLTI5NjE3NDYzNSwxNjg2OTYzMjIzLC02
-MjI1NzUxNl19
+eyJoaXN0b3J5IjpbNDQ4NTcwMzgsMjAzMzQ0ODI3MCwyMDMzND
+Q4MjcwLC0xMjcwMTc4ODQ1LDEyNjA4MjE1MzUsLTE0NDQ2ODIz
+MjIsLTE5MDI4Njc4ODIsMTM0ODU5MzQ4NywxMjYwODIxNTM1LD
+E4NTc2MzcxMzUsLTQ3ODkzNzM1MiwtMTg1MDgxNTA3LDE4NjQ0
+NzQyMDIsLTM1MzcwODMwNywxOTYxMDI3NTMsLTI5NDg0NTAwNS
+w2NTEwODk4MzAsLTE4NzUxMTg4MzksLTI5NjE3NDYzNSwxNjg2
+OTYzMjIzXX0=
 -->
