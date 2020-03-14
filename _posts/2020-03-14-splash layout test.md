@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: Chiching"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
@@ -66,6 +66,6 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="center" %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODcxNjQ2MTEsMTY1NTM4NjgxOSwzMj
+eyJoaXN0b3J5IjpbLTE0ODk0MTg0OTEsMTY1NTM4NjgxOSwzMj
 c2OTI0MjcsLTk1NzUyODE4OV19
 -->
