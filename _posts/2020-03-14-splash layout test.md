@@ -2,7 +2,7 @@
 title: "Splash Page"
 layout: splash
 permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
+author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -66,5 +66,6 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="center" %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3NjkyNDI3LC05NTc1MjgxODldfQ==
+eyJoaXN0b3J5IjpbMTY1NTM4NjgxOSwzMjc2OTI0MjcsLTk1Nz
+UyODE4OV19
 -->
