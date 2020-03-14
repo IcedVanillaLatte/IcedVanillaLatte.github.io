@@ -2,7 +2,8 @@
 title: "Layout: Header Image and Text Readability"
 header:
   image: /assets/images/head-image.jpg
-  caption: "Photo by Chic [**Unsplash**](https://unsplash.com)"
+  caption: "Photo by **Chiching**"
+  image_description: "Spring is Coming"
 tags: 
   - sample post
   - readability
@@ -49,5 +50,5 @@ Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over P
 [^1]: Texture image courtesty of [Lovetextures](http://www.lovetextures.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTczMTIzODIsOTEwNzU5MDQ5XX0=
+eyJoaXN0b3J5IjpbMTEzODEzNzYyMyw5MTA3NTkwNDldfQ==
 -->
