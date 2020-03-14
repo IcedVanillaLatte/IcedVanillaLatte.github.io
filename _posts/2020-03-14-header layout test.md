@@ -1,5 +1,8 @@
 ---
 title: "Layout: Header Overlay with Background Fill"
+toc: true
+toc_label: "My TOC"
+toc_sticky: true
 header:
   overlay_color: "#333"
 categories:
@@ -18,11 +21,16 @@ sidebar:
     text: "More text here."
 ---
 
+## head 1
+
 This post should display a **header with a solid background color**, if the theme supports it.
 
+## head 2
 Non-square images can provide some unique styling issues.
 
 This post tests overlay headers.
+
+### head 2-1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU2NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbMTkxMjk0MzU2NSwtMjA4NTY0NjY5Nl19
 -->
