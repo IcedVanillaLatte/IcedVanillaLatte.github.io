@@ -11,7 +11,7 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
-published: trufalse
+published: false
 ---
 
 # Keep Testing
@@ -177,9 +177,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA4MTUwNywxMjYwODIxNTM1LDE4Nj
-Q0NzQyMDIsLTM1MzcwODMwNywxOTYxMDI3NTMsLTI5NDg0NTAw
-NSw2NTEwODk4MzAsLTE4NzUxMTg4MzksLTI5NjE3NDYzNSwxNj
-g2OTYzMjIzLC02MjI1NzUxNiwxOTU4NTExMTQ5LC0yODg4NDAw
-NSwxMjQyMjgzMjEzLDQwODExODgyNV19
+eyJoaXN0b3J5IjpbLTQ3ODkzNzM1MiwtMTg1MDgxNTA3LDEyNj
+A4MjE1MzUsMTg2NDQ3NDIwMiwtMzUzNzA4MzA3LDE5NjEwMjc1
+MywtMjk0ODQ1MDA1LDY1MTA4OTgzMCwtMTg3NTExODgzOSwtMj
+k2MTc0NjM1LDE2ODY5NjMyMjMsLTYyMjU3NTE2LDE5NTg1MTEx
+NDksLTI4ODg0MDA1LDEyNDIyODMyMTMsNDA4MTE4ODI1XX0=
 -->
