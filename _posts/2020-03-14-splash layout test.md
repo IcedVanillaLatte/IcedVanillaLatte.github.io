@@ -4,7 +4,7 @@ layout: splash
 permalink: /splash-page/
 author_profile: true
 header:
-  overlay_color: "#000"
+  overlay_color: "#303"
   overlay_filter: "0.5"
   overlay_image: /assets/images/teaser.png
   actions:
@@ -66,6 +66,6 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="center" %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTM4NjgxOSwzMjc2OTI0MjcsLTk1Nz
-UyODE4OV19
+eyJoaXN0b3J5IjpbLTEyODcxNjQ2MTEsMTY1NTM4NjgxOSwzMj
+c2OTI0MjcsLTk1NzUyODE4OV19
 -->
