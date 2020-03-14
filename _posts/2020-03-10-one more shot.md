@@ -2,8 +2,7 @@
 title: "Post testing"
 categories: Markdown
 header:
-	image: /assets/images/header-image.jpg
-	caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+	overlay_color: "#300"
 toc: true
 toc_label: "My TOC"
 toc_sticky: true
@@ -180,10 +179,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODU5MzQ4NywxMjYwODIxNTM1LDE4NT
-c2MzcxMzUsLTQ3ODkzNzM1MiwtMTg1MDgxNTA3LDE4NjQ0NzQy
-MDIsLTM1MzcwODMwNywxOTYxMDI3NTMsLTI5NDg0NTAwNSw2NT
-EwODk4MzAsLTE4NzUxMTg4MzksLTI5NjE3NDYzNSwxNjg2OTYz
-MjIzLC02MjI1NzUxNiwxOTU4NTExMTQ5LC0yODg4NDAwNSwxMj
-QyMjgzMjEzLDQwODExODgyNV19
+eyJoaXN0b3J5IjpbLTE0NDQ2ODIzMjIsMTM0ODU5MzQ4NywxMj
+YwODIxNTM1LDE4NTc2MzcxMzUsLTQ3ODkzNzM1MiwtMTg1MDgx
+NTA3LDE4NjQ0NzQyMDIsLTM1MzcwODMwNywxOTYxMDI3NTMsLT
+I5NDg0NTAwNSw2NTEwODk4MzAsLTE4NzUxMTg4MzksLTI5NjE3
+NDYzNSwxNjg2OTYzMjIzLC02MjI1NzUxNiwxOTU4NTExMTQ5LC
+0yODg4NDAwNSwxMjQyMjgzMjEzLDQwODExODgyNV19
 -->
