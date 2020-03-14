@@ -4,9 +4,11 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "External Link"
-    url: https://google.com
-    description: "Google"
+  - title: "About"
+    url: /about/
+  #- title: "External Link"
+  #  url: https://google.com
+  #  description: "Google"
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "about"
