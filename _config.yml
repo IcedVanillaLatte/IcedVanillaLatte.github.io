@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko-KR" # "en-US"
-title                    : "This site is still under construction!"
+title                    : "Desolate Place"
 title_separator          : "-"
-subtitle                 : "Version 0.1" # site tagline that appears below site title in masthead
+subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
 name                     : "C.C.Lee"
 description              : "사소한 것들을 위한 사소한 BLOG"
 url                      : "https://icedvanillalatte.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
