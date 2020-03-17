@@ -6,7 +6,7 @@ tags:
   - Minimal Mistake
 toc: true
 toc_sticky: true
-published: false
+published: true
 ---
 
 ## Default layout
@@ -199,5 +199,5 @@ toc_icon: "cog"
 그 밖의 Minimal Mistakes 에서 지원하는 다양한 레이아웃은 [참고 사이트](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)를 통해 확인하자.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzk0MTQ1Ml19
+eyJoaXN0b3J5IjpbLTkyNjg2MDU5MSwtNzE3OTQxNDUyXX0=
 -->
