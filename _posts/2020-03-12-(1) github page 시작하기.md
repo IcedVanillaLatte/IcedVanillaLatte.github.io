@@ -7,7 +7,6 @@ tags:
 published: false
 toc: true
 published: true
-
 ---
 
 GitHub Page로 블로그를 만들어보자. GitHub Page에서 자체 제공하는 테마도 있지만, 여기에서는 Jekyll 테마를 사용한다. 그 중에서도 가장 잘 팔리고 있는 Minimal Mistake로 골랐다.
@@ -166,5 +165,5 @@ private repository에 저장된 이미지도 링크를 가져와 GitHub page(pub
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTI2NDc3NSw3MTQzOTE0M119
+eyJoaXN0b3J5IjpbMTg0ODQ4MTEsNzE0MzkxNDNdfQ==
 -->
