@@ -2,8 +2,8 @@
 title: "GitHub Page (1) : Starting with Minimal Mistake Jerkyll Theme"
 categories: IT
 tags:
-	- GitHub Page
-	- Minimal Mistake
+  - GitHub Page
+  - Minimal Mistake
 toc: true
 published: true
 ---
@@ -164,5 +164,5 @@ private repository에 저장된 이미지도 링크를 가져와 GitHub page(pub
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODM3MjcyNF19
+eyJoaXN0b3J5IjpbLTYzODcwMzczMiwtOTk4MzcyNzI0XX0=
 -->
