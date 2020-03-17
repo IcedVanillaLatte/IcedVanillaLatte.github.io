@@ -5,6 +5,7 @@ tags:
   - GitHub Page
   - Minimal Mistake
 toc: true
+toc_sticky: true
 published: true
 ---
 
@@ -164,5 +165,6 @@ private repository에 저장된 이미지도 링크를 가져와 GitHub page(pub
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODcwMzczMiwtOTk4MzcyNzI0XX0=
+eyJoaXN0b3J5IjpbLTEyMTIwODQ5MTAsLTYzODcwMzczMiwtOT
+k4MzcyNzI0XX0=
 -->
