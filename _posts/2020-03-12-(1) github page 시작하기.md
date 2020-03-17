@@ -1,5 +1,5 @@
 ---
-title: "Starting GitHub Page with Minimal Mistake Jerkyll Theme"
+title: "GitHub Page (1) : Starting GitHub Page with Minimal Mistake Jerkyll Theme"
 categories: IT
 tags:
 	- GitHub Page
@@ -166,5 +166,5 @@ private repository에 저장된 이미지도 링크를 가져와 GitHub page(pub
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0MzkxNDNdfQ==
+eyJoaXN0b3J5IjpbMTkzMzY5MTg1Myw3MTQzOTE0M119
 -->
