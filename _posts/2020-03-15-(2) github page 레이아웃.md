@@ -198,6 +198,19 @@ toc_icon: "cog"
 
 그 밖의 Minimal Mistakes 에서 지원하는 다양한 레이아웃은 [참고 사이트](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)를 통해 확인하자.
 
+## Published date in Single layout
+
+Single layout 으로 글을 작성하면 포스트의 제일 밑에 Updated 날짜가 표시된다.![image](https://user-images.githubusercontent.com/1376749/42345790-806820aa-806e-11e8-8abe-5a2fe772e893.png)
+
+하지만, 이를 제목 바로 아래에 두고 보고 싶을 수 있다. 
+
+사실 Front Matter의 `read_time: true` 옵션을 통해 보여지는 글을 읽을 때 걸리는 시간은... 개인적으로는 한 번도 궁금한 적이 없다.
+
+- 참고사이트(폰트 사이즈 수정, 메뉴바 사이즈 수정, 포스트 제목 아래 게시 날짜 표시 등)
+	- https://devinlife.com/howto%20github%20pages/github-pages-settings/](https://devinlife.com/howto%20github%20pages/github-pages-settings/)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjg2MDU5MSwtNzE3OTQxNDUyXX0=
+eyJoaXN0b3J5IjpbLTE3ODQzMDExNzEsLTkyNjg2MDU5MSwtNz
+E3OTQxNDUyXX0=
 -->
