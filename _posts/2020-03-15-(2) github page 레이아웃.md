@@ -198,6 +198,8 @@ toc_icon: "cog"
 
 그 밖의 Minimal Mistakes 에서 지원하는 다양한 레이아웃은 [참고 사이트](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)를 통해 확인하자.
 
+## Published date in single
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjg2MDU5MSwtNzE3OTQxNDUyXX0=
+eyJoaXN0b3J5IjpbLTIwMzI1NDk5OTgsLTkyNjg2MDU5MSwtNz
+E3OTQxNDUyXX0=
 -->
