@@ -198,8 +198,10 @@ toc_icon: "cog"
 
 그 밖의 Minimal Mistakes 에서 지원하는 다양한 레이아웃은 [참고 사이트](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)를 통해 확인하자.
 
-## Published date in single
+## Published date in Single layout
+Single layout 으로 글을 작성하면 포스트의 제일 밑에 published date가 표시되지만, 이를 제목 바로 아래에서 보고 싶은 경우가 있다.
+![image](https://user-images.githubusercontent.com/1376749/42345790-806820aa-806e-11e8-8abe-5a2fe772e893.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI1NDk5OTgsLTkyNjg2MDU5MSwtNz
-E3OTQxNDUyXX0=
+eyJoaXN0b3J5IjpbMzkzMzg1NTc0LC05MjY4NjA1OTEsLTcxNz
+k0MTQ1Ml19
 -->
