@@ -2,14 +2,14 @@
 title: "GitHub Page (1) : Starting with Minimal Mistake Jerkyll Theme"
 categories: IT
 tags:
-  - GitHub Page
+  - GitHhub Page
   - Minimal Mistake
 toc: true
 toc_sticky: true
 published: true
 ---
 
-GitHub Page로 블로그를 만들어보자. GitHub Page에서 자체 제공하는 테마도 있지만, 여기에서는 Jekyll 테마를 사용한다. 그 중에서도 가장 잘 팔리고 있는 Minimal Mistake로 골랐다.
+GitHub Page로 블로그를 만들어보자. GitHub Page에서 자체 제공하는 테마도 있지만, 여기에서는 Jekyll 테마를 사용한다. 그 중에서도 가장 잘 팔리고 있는 Minimal Mistakes
 
 
 ## 1. 새 저장소 만들기(repository)
@@ -77,7 +77,7 @@ remote_theme : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin : "contrast"
 ```
 
- `theme`을 선택하면, 다음과 같은 Page build warning 메일을 받아볼 수 있다.
+  `theme`을 선택하면, 다음과 같은 Page build warning 메일을 받아볼 수 있다.
 
 > You are attempting to use a Jekyll theme, "minimal-mistakes-jekyll", which is not supported by GitHub Pages. Please visit https://pages.github.com/themes/ for a list of supported themes.
 
@@ -146,9 +146,7 @@ author: Billy Rick
 author_profile: true
 ```
 
-포스트 글을 클릭하면 좌측 사이드 바에서 작성자 정보를 볼 수 있다.
-
-## (필요시) private 저장소 만들기
+포스트 글을 클릭하면 좌측 사이드 바에서 작성자 정보를 볼 수 있다.## (필요시) private 저장소 만들기
 
 private 저장소를 만들면, 작성한 글을 private 저장소에 임시 저장하여 두고, 필요할 때 public 페이지로 옮겨와 post할 수 있다.
 
@@ -165,6 +163,6 @@ private repository에 저장된 이미지도 링크를 가져와 GitHub page(pub
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDI5MDcxNywtNjM4NzAzNzMyLC05OT
-gzNzI3MjRdfQ==
+eyJoaXN0b3J5IjpbLTk0MTExMTU1OCwtNzk0MjkwNzE3LC02Mz
+g3MDM3MzIsLTk5ODM3MjcyNF19
 -->
