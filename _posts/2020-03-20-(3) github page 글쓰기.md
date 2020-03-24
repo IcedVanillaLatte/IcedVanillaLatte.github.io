@@ -38,7 +38,7 @@ Front matter의 `title`에 작성한 글이 해당 포스트의 제목으로 표
 테마에 따라서 여기에 들어가는 정보가 조금씩 다를 수 있으므로, 각 테마별로 front matter 규칙을 살펴볼 필요가 있다.
 
 
-## 3. Ppublish
+## 3. Publish
 
 publish 할 때, 제목의 띄어쓰기는 상관이 없다. .다만, 경로(_posts/filename)만 주의하자.
 파일 제목은 repository에 올라가는 파일 이름일 뿐, Front Matter의 `title`에 작성된 문구가 해당 포스트의 제목이 된다. Front Matter 상에 다음과 같은 구문으로 publish 여부를 선택할 수도 있다.
@@ -138,6 +138,6 @@ toc_icon: "cog"
 
 ront atter에 다
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTM4MDk5MywtMzk3NTM1NzQsLTEzOT
-MzMjY1Ml19
+eyJoaXN0b3J5IjpbLTIwOTM2Mzk1NTMsLTM5NzUzNTc0LC0xMz
+kzMzI2NTJdfQ==
 -->
