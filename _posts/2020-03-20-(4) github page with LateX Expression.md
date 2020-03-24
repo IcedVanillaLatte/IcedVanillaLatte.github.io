@@ -19,7 +19,7 @@ Remote theme 인 minimal-mistakes의 [repository](https://github.com/mmistakes/m
 
 그리고 `scripts.html`에 아래의 스크립트를 추가한다.
 
-``` HTML
+``` html
 <script type="text/javascript" async
 	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
 </script>
@@ -122,5 +122,5 @@ GitHub page에서 위 스크립트가 정상적으로 로드되었다면, 아래
 |`$\omega \Omega$`|$\omega \Omega$|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg0MDUzNTldfQ==
+eyJoaXN0b3J5IjpbLTM5ODA3MjMwMywtMTk3ODQwNTM1OV19
 -->
