@@ -61,11 +61,11 @@ p
 
 ![image](https://user-images.githubusercontent.com/4952571/38148090-eb4ff8fa-348f-11e8-90e3-8b585a1c31ab.png)
 
-StackEdit에서 작성한 글을 GitHub Page로 올리고 싶다면, 오른쪽 메뉴바에서 `Synchronize`를 선택하고, `Save on GitHub`를 누른다.
+StackEdit에서 작성한 글을 GitHub Page로 올리고 싶다면, 오른쪽 메뉴바에서 *Synchronize*를 선택하고, *Save on GitHub*를 누른다.
 
 ![image](https://user-images.githubusercontent.com/61964210/77400558-bbe1c180-6dee-11ea-803a-d670c3b8b9eb.png)
 
-
+경로 지정시, 반드시 파일 이름 앞에 `_posts/`를 붙여주자. `_posts`폴더 안에 있는 파일이 GitHub Page에 포스트 글로 올라온다.
 
 
 ## 5. TOC
@@ -89,6 +89,6 @@ published: true
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODE1NTA3OSwxNDU2Mzg1MjkwLC0yMD
-kzNjM5NTUzLC0zOTc1MzU3NCwtMTM5MzMyNjUyXX0=
+eyJoaXN0b3J5IjpbLTYzMzA3NzI5LDE0NTYzODUyOTAsLTIwOT
+M2Mzk1NTMsLTM5NzUzNTc0LC0xMzkzMzI2NTJdfQ==
 -->
