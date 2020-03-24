@@ -1,5 +1,5 @@
 ---
-title: "GitHub Page (4) : Latex Expression in GitHub Page"
+title: "GitHub Page: (4) Latex Expression in GitHub Page"
 categories: IT
 tags:
   - GitHub Page
@@ -122,5 +122,6 @@ GitHub page에서 위 스크립트가 정상적으로 로드되었다면, 아래
 |`$\omega \Omega$`|$\omega \Omega$|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODA3MjMwMywtMTk3ODQwNTM1OV19
+eyJoaXN0b3J5IjpbODExODEyMDY3LC0zOTgwNzIzMDMsLTE5Nz
+g0MDUzNTldfQ==
 -->
