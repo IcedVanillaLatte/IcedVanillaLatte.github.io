@@ -61,6 +61,12 @@ p
 
 ![image](https://user-images.githubusercontent.com/4952571/38148090-eb4ff8fa-348f-11e8-90e3-8b585a1c31ab.png)
 
+StackEdit에서 작성한 글을 GitHub Page로 올리고 싶다면, 오른쪽 메뉴바에서 `Synchronize`를 선택하고, `Save on GitHub`를 누른다.
+
+![image](https://user-images.githubusercontent.com/61964210/77400558-bbe1c180-6dee-11ea-803a-d670c3b8b9eb.png)
+
+
+
 
 ## 5. TOC
 
@@ -83,6 +89,6 @@ published: true
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjM4NTI5MCwtMjA5MzYzOTU1MywtMz
-k3NTM1NzQsLTEzOTMzMjY1Ml19
+eyJoaXN0b3J5IjpbMTM2ODE1NTA3OSwxNDU2Mzg1MjkwLC0yMD
+kzNjM5NTUzLC0zOTc1MzU3NCwtMTM5MzMyNjUyXX0=
 -->
