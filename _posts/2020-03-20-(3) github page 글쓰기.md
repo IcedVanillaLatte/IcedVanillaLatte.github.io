@@ -56,16 +56,13 @@ p
 
 ## 4. Markdown Editor
 
-
-## 4. 마크다운 사용을 위한 편집기
-
 많은 블로그에서 Atom과 함께 Markdown preview enhanced 확장 프로그램을 추천한다. 하지만 나는 개인적으로 [StackEdit](https://stackedit.io/app#) 편집기가 제일 좋은 것 같다.
 별도의 설치 없이 웹에서 사용 가능하고, 크롬 브라우저의 확장 프로그램으로도 사용할 수 있다. 또한 지원하는 마크다운 문법이 더 풍성하다. GitHub Page와의 동기화도 편하다. 자신의 구글 계정으로 접속하면, 에버노트처럼 카테고리를 구분해서 여러 글들을 작성하고 여러 장치에서 접근해서 보고 편집할 수 있다.
 
 ![image](https://user-images.githubusercontent.com/4952571/38148090-eb4ff8fa-348f-11e8-90e3-8b585a1c31ab.png)
 
 
-## 5. TOCLaTeX 사용하기
+## 5. TOC
 
 참고 사이트: <https://mmistakes.github.io/minimal-mistakes/docs/helpers/>
 
@@ -85,59 +82,7 @@ published: true
 ---
 ```
 
-www.janmeppe.com/blog/How-to-add-mathjax-to-minimal-mistakes/>
-
-Remote theme 인 minimal-mistakes의 [repository](https://github.com/mmistakes/minimal-mistakes)에서 `minimal-mistakes/_includes/scripts.html` 를 로컬 `_includes/scripts.html` 로 가져온다.
-
-그리고 `scripts.html`에 아래의 스크립트를 Markdown preview enhanced  로그 추한다.    [StacEit]https://stake.io/minimal-mistakes/docs/helpers/>
-
-Front Matter에 다음과 같이 toc 옵션을 추가하여 Table of Content를 포스트 글에 넣을 수 있다.
-
-
-``` yml 
----
-title: "Welcome"
-date: 2020-03-10 12:39:00 +0900
-categories: Github Pages
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
-toc_sticky: true
-published: true
----
-```
-
-을 넣는다
-
-![toc](/assets/toc.png)
-
-```
----
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
----
-```
-
-## 12. 이미지 올리기
-
-
-마크다운 문법을 사용하여 이미지를 올려보자.
-```
-![image title](link)
-```
-내가 가진it.io/app)     다.
-  이 웹에서 사 고, 크 우의  로로 사용 수 있다.  지  이  다. GitHub Page  하 의  으로  트 를 해서  을 하  에서   할 수 있다.
-
-
-
-
- . C 하기
-
-참고사이트 <http://mmiaes.github.io/minimalmistakes/dos/helpers/>
-
-ront atter에 다
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM2Mzk1NTMsLTM5NzUzNTc0LC0xMz
-kzMzI2NTJdfQ==
+eyJoaXN0b3J5IjpbMTQ1NjM4NTI5MCwtMjA5MzYzOTU1MywtMz
+k3NTM1NzQsLTEzOTMzMjY1Ml19
 -->
