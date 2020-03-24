@@ -9,7 +9,7 @@ toc_sticky: true
 published: true
 ---
 
-GitHub Page로 블로그를 만들어보자. GitHub Page에서 자체 제공하는 테마도 있지만, 여기에서는 Jekyll 테마를 사용한다. 그 중에서도 가장 잘 팔리고 있는 Minimal Mistakes
+GitHub Page로 블로그를 만들어보자. GitHub Page에서 자체 제공하는 테마도 있지만, 여기에서는 Jekyll 테마를 사용한다. 그 중에서도 가장 잘 팔리고 있는 Minimal Mistake
 
 
 ## 1. 새 저장소 만들기(repository)
@@ -163,6 +163,6 @@ private repository에 저장된 이미지도 링크를 가져와 GitHub page(pub
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Nzk4OTUyLC05NDExMTE1NTgsLTc5ND
-I5MDcxNywtNjM4NzAzNzMyLC05OTgzNzI3MjRdfQ==
+eyJoaXN0b3J5IjpbLTE4NzU3NjUyOTMsMTY5Nzk4OTUyLC03OT
+QyOTA3MTcsLTYzODcwMzczMiwtOTk4MzcyNzI0XX0=
 -->
