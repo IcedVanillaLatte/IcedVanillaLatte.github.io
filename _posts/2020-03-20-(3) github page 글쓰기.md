@@ -1,8 +1,8 @@
 ---
-title: "GitHub Page (3) : Posting"
+title: "GitHub Page: (3) Posting"
 categories: IT
 tags:
-  - GitHhub Page
+  - GitHub Page
   - Minimal Mistake
 toc: true
 toc_sticky: true
@@ -87,6 +87,6 @@ published: true
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIyMzg3MDEsMTQ1NjM4NTI5MCwtMj
-A5MzYzOTU1MywtMzk3NTM1NzQsLTEzOTMzMjY1Ml19
+eyJoaXN0b3J5IjpbMzU2NzAxNTQxLDE0NTYzODUyOTAsLTIwOT
+M2Mzk1NTMsLTM5NzUzNTc0LC0xMzkzMzI2NTJdfQ==
 -->
