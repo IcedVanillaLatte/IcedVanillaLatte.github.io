@@ -8,7 +8,7 @@ permalink: /test/
   "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="https://www.w3.org/1999/xhtml">
 <head>
-<title>ColumnChartID2b146d8b12bf</title>
+<title>ColumnChartID2b14b363f5c</title>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <style type="text/css">
 body {
@@ -23,27 +23,152 @@ body {
 </style>
 </head>
 <body>
- ---
-title: test html
-layout: single
-permalink: /test/
----
-
-c(jsHeader = "<!-- ColumnChart generated in R 3.6.3 by googleVis 0.6.4 package -->\n<!-- Thu Mar 26 16:37:41 2020 -->\n\n\n<!-- jsHeader -->\n<script type=\"text/javascript\">\n", jsData = "\n// jsData \nfunction gvisDataColumnChartID2b146d8b12bf () {\nvar data = new google.visualization.DataTable();\nvar datajson =\n[\n [\nnew Date(2020,2,26,13,30,0),\n2.62,\n\"#5C3292\"\n],\n[\nnew Date(2020,2,26,13,40,0),\n2.64,\n\"#5C3292\"\n],\n[\nnew Date(2020,2,26,13,56,0),\n4.85,\n\"#871B47\"\n],\n[\nnew Date(2020,2,26,14,6,0),\n4.6,\n\"#871B47\"\n],\n[\nnew Date(2020,2,26,14,17,0),\n4.75,\n\"#871B47\"\n],\n[\nnew Date(2020,2,26,14,27,0),\n4.8,\n\"#871B47\"\n],\n[\nnew Date(2020,2,26,14,37,0),\n4.5,\nnull\n],\n[\nnew Date(2020,2,26,14,47,0),\n4.2,\nnull\n],\n[\nnew Date(2020,2,26,14,57,0),\n4.3,\n\"#871B47\"\n],\n[\nnew Date(2020,2,26,15,7,0),\n4.6,\n\"#871B47\"\n],\n[\nnew Date(2020,2,26,15,17,0),\n4,\nnull\n],\n[\nnew Date(2020,2,26,15,27,0),\n4.5,\nnull\n] \n];\ndata.addColumn('datetime','time');\ndata.addColumn('number','PM25');\ndata.addColumn({type: 'string', role: 'style'});\ndata.addRows(datajson);\nreturn(data);\n}\n", 
-jsDrawChart = "\n// jsDrawChart\nfunction drawChartColumnChartID2b146d8b12bf() {\nvar data = gvisDataColumnChartID2b146d8b12bf();\nvar options = {};\noptions[\"allowHtml\"] = true;\n\n\n    var chart = new google.visualization.ColumnChart(\n    document.getElementById('ColumnChartID2b146d8b12bf')\n    );\n    chart.draw(data,options);\n    \n\n}\n  \n", jsDisplayChart = "\n// jsDisplayChart\n(function() {\nvar pkgs = window.__gvisPackages = window.__gvisPackages || [];\nvar callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];\nvar chartid = \"corechart\";\n  \n// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)\nvar i, newPackage = true;\nfor (i = 0; newPackage && i < pkgs.length; i++) {\nif (pkgs[i] === chartid)\nnewPackage = false;\n}\nif (newPackage)\n  pkgs.push(chartid);\n  \n// Add the drawChart function to the global list of callbacks\ncallbacks.push(drawChartColumnChartID2b146d8b12bf);\n})();\nfunction displayChartColumnChartID2b146d8b12bf() {\n  var pkgs = window.__gvisPackages = window.__gvisPackages || [];\n  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];\n  window.clearTimeout(window.__gvisLoad);\n  // The timeout is set to 100 because otherwise the container div we are\n  // targeting might not be part of the document yet\n  window.__gvisLoad = setTimeout(function() {\n  var pkgCount = pkgs.length;\n  google.load(\"visualization\", \"1\", { packages:pkgs, callback: function() {\n  if (pkgCount != pkgs.length) {\n  // Race condition where another setTimeout call snuck in after us; if\n  // that call added a package, we must not shift its callback\n  return;\n}\nwhile (callbacks.length > 0)\ncallbacks.shift()();\n} });\n}, 100);\n}\n", 
-jsFooter = "\n// jsFooter\n</script>\n", jsChart = "\n<!-- jsChart -->  \n<script type=\"text/javascript\" src=\"https://www.google.com/jsapi?callback=displayChartColumnChartID2b146d8b12bf\"></script>\n", divChart = "\n<!-- divChart -->\n  \n<div id=\"ColumnChartID2b146d8b12bf\" \n  style=\"width: 500; height: automatic;\">\n</div>\n") ---
-title: test html
-layout: single
-permalink: /test/
----
-
-<div><span>Data: data &#8226; Chart ID: <a href="Chart_ColumnChartID2b146d8b12bf.html">ColumnChartID2b146d8b12bf</a> &#8226; <a href="https://github.com/mages/googleVis">googleVis-0.6.4</a></span><br /> ---
-title: test html
-layout: single
-permalink: /test/
----
+ <!-- ColumnChart generated in R 3.6.3 by googleVis 0.6.4 package -->
+<!-- Thu Mar 26 17:54:26 2020 -->
 
 
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataColumnChartID2b14b363f5c () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+new Date(2020,2,26,13,30,0),
+2.62,
+"#5C3292"
+],
+[
+new Date(2020,2,26,13,40,0),
+2.64,
+"#5C3292"
+],
+[
+new Date(2020,2,26,13,56,0),
+4.85,
+"#871B47"
+],
+[
+new Date(2020,2,26,14,6,0),
+4.6,
+"#871B47"
+],
+[
+new Date(2020,2,26,14,17,0),
+4.75,
+"#871B47"
+],
+[
+new Date(2020,2,26,14,27,0),
+4.8,
+"#871B47"
+],
+[
+new Date(2020,2,26,14,37,0),
+4.5,
+null
+],
+[
+new Date(2020,2,26,14,47,0),
+4.2,
+null
+],
+[
+new Date(2020,2,26,14,57,0),
+4.3,
+"#871B47"
+],
+[
+new Date(2020,2,26,15,7,0),
+4.6,
+"#871B47"
+],
+[
+new Date(2020,2,26,15,17,0),
+4,
+null
+],
+[
+new Date(2020,2,26,15,27,0),
+4.5,
+null
+] 
+];
+data.addColumn('datetime','time');
+data.addColumn('number','PM25');
+data.addColumn({type: 'string', role: 'style'});
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartColumnChartID2b14b363f5c() {
+var data = gvisDataColumnChartID2b14b363f5c();
+var options = {};
+options["allowHtml"] = true;
+
+
+    var chart = new google.visualization.ColumnChart(
+    document.getElementById('ColumnChartID2b14b363f5c')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "corechart";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartColumnChartID2b14b363f5c);
+})();
+function displayChartColumnChartID2b14b363f5c() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartColumnChartID2b14b363f5c"></script>
+ 
+<!-- divChart -->
+  
+<div id="ColumnChartID2b14b363f5c" 
+  style="width: 500; height: automatic;">
+</div>
+ <div><span>Data: data &#8226; Chart ID: <a href="Chart_ColumnChartID2b14b363f5c.html">ColumnChartID2b14b363f5c</a> &#8226; <a href="https://github.com/mages/googleVis">googleVis-0.6.4</a></span><br /> 
 <!-- htmlFooter -->
 <span> 
   R version 3.6.3 (2020-02-29) 
