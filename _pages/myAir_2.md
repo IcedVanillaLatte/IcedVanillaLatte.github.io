@@ -1,6 +1,7 @@
 ---
 title: Visualization on Air Quality
-layout: splash
+layout: single
+classes: wide
 permalink: /myair2/
 ---
 
