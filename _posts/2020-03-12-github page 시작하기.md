@@ -136,7 +136,7 @@ Billy Rick:
       url: "https://twitter.com/extravagantman"
 ```
 
-`authors.yml`에 작성자 정보를 입력하고 나면, 포스트 글 작성시 Front Matter에 아래와 같이 이름 값을 적어주거나, 
+`authors.yml`에 작성자 정보를 입력하고 나면, 포스트 글 작성시 YAML Front Matter에 아래와 같이 이름 값을 적어주거나, 
 
 ``` yml
 author: Billy Rick
@@ -163,6 +163,7 @@ private repository에 저장된 이미지도 링크를 가져와 GitHub page(pub
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU3NjUyOTMsMTY5Nzk4OTUyLC03OT
-QyOTA3MTcsLTYzODcwMzczMiwtOTk4MzcyNzI0XX0=
+eyJoaXN0b3J5IjpbNTA3MTMzMjQ4LC0xODc1NzY1MjkzLDE2OT
+c5ODk1MiwtNzk0MjkwNzE3LC02Mzg3MDM3MzIsLTk5ODM3Mjcy
+NF19
 -->
