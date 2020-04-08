@@ -4,10 +4,10 @@
 
 @charset "utf-8";
 
-.archive a {
-    color: #338AFF;
-    text-decoration: none;
-}
+
+$link-color: #338AFF;
+#$link-color-hover: mix(#000, $link-color, 25%) !default;
+#$link-color-visited: mix(#fff, $link-color, 15%) !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
