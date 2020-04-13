@@ -11,9 +11,6 @@ published: true
 
 ## LaTeX Script
 
-- 참고 사이트
-	- <https://www.janmeppe.com/blog/How-to-add-mathjax-to-minimal-mistakes/>{: target="_blank"}
-
 
 Remote theme 인 minimal-mistakes의 [repository](https://github.com/mmistakes/minimal-mistakes)에서 `minimal-mistakes/_includes/scripts.html` 를 로컬 `_includes/scripts.html` 로 가져온다.
 
@@ -41,9 +38,12 @@ Remote theme 인 minimal-mistakes의 [repository](https://github.com/mmistakes/m
 > Note that this overrides any other include file in the remote theme.
 
 
+- 참고 사이트
+	- <https://www.janmeppe.com/blog/How-to-add-mathjax-to-minimal-mistakes/>{: target="_blank"}
+
+
 ## Example : LaTeX Equation Expression
 
-- 참고 사이트 : <https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html>
 
 GitHub page에서 위 스크립트가 정상적으로 로드되었다면, 아래와 같은 방법으로 LaTex 수식을 표현할 수 있다.
 
@@ -121,7 +121,13 @@ GitHub page에서 위 스크립트가 정상적으로 로드되었다면, 아래
 |`$\mu M$`|$\mu M$|
 |`$\omega \Omega$`|$\omega \Omega$|
 
+
+- 참고 사이트 : <https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html>
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExODEyMDY3LC0zOTgwNzIzMDMsLTE5Nz
-g0MDUzNTldfQ==
+eyJoaXN0b3J5IjpbLTE3NTAwMjU4Nyw4MTE4MTIwNjcsLTM5OD
+A3MjMwMywtMTk3ODQwNTM1OV19
 -->
