@@ -1,5 +1,5 @@
 ---
-title: "GitHub Page (6) : Customizing"
+title: "GitHub Page: (6) Customizing"
 categories: IT
 tags:
   - GitHub Page
@@ -158,5 +158,6 @@ comments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQyMDI3ODAsMTEyMzI3ODQwNF19
+eyJoaXN0b3J5IjpbLTEyMjU1ODQzMDIsLTE0NTQyMDI3ODAsMT
+EyMzI3ODQwNF19
 -->
