@@ -45,7 +45,6 @@ $link-color: red; // or
 $link-color: #338AFF;
 ```
 
-
 - 참고 사이트
 	- <https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/>
 
@@ -158,6 +157,6 @@ comments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU1ODQzMDIsLTE0NTQyMDI3ODAsMT
-EyMzI3ODQwNF19
+eyJoaXN0b3J5IjpbMTEwNTE0MDIwLC0xNDU0MjAyNzgwLDExMj
+MyNzg0MDRdfQ==
 -->
