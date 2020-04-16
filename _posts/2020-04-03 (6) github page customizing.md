@@ -144,89 +144,13 @@ comments:
     shortname: "your-disqus-shortname"
 ```
 
-
 - 참고 사이트
 	- <https://mmistakes.github.io/minimal-mistakes/docs/configuration/>
 	- <https://help.disqus.com/en/articles/1717111-what-s-a-shortname>
 
 
 
-## Diagram
 
-[StackEdit](https://stackedit.io/app#) 에서는 다음과 같은 구문으로 code를 작성하면 **mermaid 다이어그램**을 출력할 수 있다.
-
-```
-	``` mermaid
-	sequenceDiagram
-		Alice ->> Bob: Hello Bob, how are you?
-		Bob-->>John: How about you John?
-		Bob--x Alice: I am good thanks!
-		Bob-x John: I am good thanks!
-		Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-		Bob-->Alice: Checking with John...
-		Alice->John: Yes... John, how are you?
-	```
-```
-
-![diagam in StackEdit](https://user-images.githubusercontent.com/61964210/76493619-5ef11d80-6476-11ea-8f05-7ee164699458.png)
-
-하지만, GitHub Page에서 위와 같은 diagram을 출력하기 위해서는 추가 작업이 필요하다.
-
-
-다이어그램 출력을 위해서는 jekyll 테마에 mermaid 플러그 인을 설치해야 하지만, 썩 매끄럽지 않은듯 하다.
-
-> And jekyll has a [plugin](https://github.com/jasonbellamy/jekyll-mermaid) to simplify the creation of mermaid diagrams and flowcharts in your posts and pages. However, for safety reasons, if you want github automatically transform your post into web pages, you can’t use a plugin. So here I’ll show you how to make mermaid work in jekyll without plugin. \[[바로가기](http://kkpattern.github.io/2015/05/15/Embed-Chart-in-Jekyll.html)\]
-
-대신, `mermaid` 스크립트를 `_includes/head.html`에 추가함으로써 웹에서도 다이어그램을 출력할 수 있다.
-
-``` html
-<script src="https://unpkg.com/mermaid@8.4.8/dist/mermaid.min.js"></script>
-```
-
-그리고 본문에서는 `div` 태그를 사용해 mermaid 형식의 글임을 나타내줘야 한다.
-
-```
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
-```
-> Next, we will change the jekyll template to include the mermaid code. In the `_includes` directory there is a file named `head.html`. Content in this file will be include in the head section of every page rendered by jekyll. And the chart definition need to be in a `div` whose class is `mermaid`.
-
-하지만, 어차피 본문 글을 작성할 때, `<div class="mermaid">...</div>` 태그를 달거라면, 아래와 같이 `<script>...</script>` 태그도 본문에서 처리하는 편이 더 나을 수 있다.
-
-
-``` html
-<script src="https://unpkg.com/mermaid@8.4.8/dist/mermaid.min.js"></script>
-<div class="mermaid">
-graph TD
-    A-->B
-    A-->C
-    B-->D
-    C-->D
-</div>
-```
-이 스크립트 구문은 아래와 같이 mermaid diagram으로 변환되어 표현된다.
-
-<script src="https://unpkg.com/mermaid@8.4.8/dist/mermaid.min.js"></script>
-<div class="mermaid">
-graph TD
-	A-->B
-	A-->C
-	B-->D
-	C-->D
-</div>
-
-20년 4월 사용 가능한 `mermaid` 최신 버전은 `8.5.0`이며, 사용 가능한 스크립트 및 버전은 [여기에서](https://unpkg.com/mermaid/ "Index of the mermaid package") 확인할 수 있다.
-
-
-- 참고사이트
-	- <http://edgriebel.com/2019-embedding-mermaid-diagram/>
-	- [Live Editor](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuXHRcdCIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In19)
 
 
 
@@ -234,5 +158,5 @@ graph TD
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzI3ODQwNF19
+eyJoaXN0b3J5IjpbLTE0NTQyMDI3ODAsMTEyMzI3ODQwNF19
 -->
