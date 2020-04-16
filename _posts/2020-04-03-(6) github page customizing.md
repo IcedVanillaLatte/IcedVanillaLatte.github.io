@@ -54,7 +54,7 @@ $link-color: #338AFF;
 **하이퍼링크의 밑줄**을 없애고 싶다면 아래 링크를 참고하자.
 
 - 참고 사이트
-	- <https://github.com/devinlife/devinlife.github.io/commit/5440cf5eaf6ebd15b70754c778d8cab19a1203c3>
+	- [de<https://github.com/devinlife/devinlife.github.io/commit/5440cf5eaf6ebd15b70754c778d8cab19a1203c3>
 
 
 ## Share link
@@ -157,5 +157,5 @@ comments:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTE0MDIwXX0=
+eyJoaXN0b3J5IjpbLTUwODg5NjEwNiwxMTA1MTQwMjBdfQ==
 -->
