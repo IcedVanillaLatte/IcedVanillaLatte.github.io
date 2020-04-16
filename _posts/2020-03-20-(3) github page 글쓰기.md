@@ -22,6 +22,8 @@ YEAR-MONTH-DAY-title.md
 ```
 `YEAR`는 4자리, `MONTH`와 `DAY`는 2자리 숫자로 작성한다. `title`은 **띄어쓰기가 허용**된다.
 
+날짜와 포스트의 제목 사이에 `-`를 빼먹지 않도록 유의하자.{: .notice--warning}
+
 ## 2. YAML Front Matter
 
 모든 블로그의 포스트 파일은 반드시 [YAML front matter](https://jekyllrb.com/docs/front-matter/)로 시작해야 한다. YAML front matter는 포스트 글의 메타 데이터를 담고 있다.
@@ -87,6 +89,7 @@ published: true
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU0MDI0NjcsMTQ1NjM4NTI5MCwtMj
-A5MzYzOTU1MywtMzk3NTM1NzQsLTEzOTMzMjY1Ml19
+eyJoaXN0b3J5IjpbMjAxNTUwMjI1OSwtMTg0NTQwMjQ2NywxND
+U2Mzg1MjkwLC0yMDkzNjM5NTUzLC0zOTc1MzU3NCwtMTM5MzMy
+NjUyXX0=
 -->
