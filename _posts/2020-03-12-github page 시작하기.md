@@ -153,10 +153,11 @@ private repository에 저장된 이미지도 링크를 가져와 GitHub page(pub
 
 ## 6. GitHub Page 대문 글 및 이미지
 
-GitHub Page에 처음 접속했을 때 보이는 글이나 이미지는 
+GitHub Page에 처음 접속했을 때 보이는 글이나 이미지는 `index.html`을 통해 편집할 수 있다.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjMyMTAyOSw4MDIyMjE2MDYsLTE4Nz
-U3NjUyOTMsMTY5Nzk4OTUyLC03OTQyOTA3MTcsLTYzODcwMzcz
-MiwtOTk4MzcyNzI0XX0=
+eyJoaXN0b3J5IjpbLTE5OTkxNjU0OTAsODAyMjIxNjA2LC0xOD
+c1NzY1MjkzLDE2OTc5ODk1MiwtNzk0MjkwNzE3LC02Mzg3MDM3
+MzIsLTk5ODM3MjcyNF19
 -->
