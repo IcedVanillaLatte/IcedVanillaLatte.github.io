@@ -93,8 +93,25 @@ published: true
 
 만약 한 주제로 여러 글들을 연속해서 나누어 포스팅한다면, 관련된 글들을 모아 보여줌으로써 전체 글의 흐름을 파악할 수 있을 것이다. 이를 sidebar에 나타나도록 하려면, `_data/navigation.yml`을 편집하면 된다.
 
+``` yml
+  github:
+    - title: GitHub Page
+      children:
+        - title: "시작하기"
+          url: /_posts/2020-03-12-(1) github page 시작하기
+        - title: "레이아웃 정하기"
+          url: /_posts/2020-03-15-(2) github page 레이아웃
+        - title: "글쓰기"
+          url: /_posts/2020-03-20-(3) github page 글쓰기
+        - title: "LaTex 수식 표현하기"
+          url: /_posts/2020-03-20-(4) github page with LateX Expression
+        - title: "이미지 올리기"
+          url: /_posts/2020-03-20-(5) github page Image upload
+        - title: "꾸미기"
+          url: /_posts/2020-04-03-(6) github page customizing
 ```
 
+그리고 `_data/navigation.yml` 에서 사용한 키(여기서는 `github`)를 해당 글의 YAML Front Matter에 
 
 
 
@@ -104,8 +121,8 @@ sidebar:
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk4NzMxNiwtMTA4MDczNDk4MCwtMT
-gyODU3NTY3NSwyMDE1NTAyMjU5LC0xODQ1NDAyNDY3LDE0NTYz
-ODUyOTAsLTIwOTM2Mzk1NTMsLTM5NzUzNTc0LC0xMzkzMzI2NT
-JdfQ==
+eyJoaXN0b3J5IjpbNzc2NTQ1MzY2LC0xMDgwNzM0OTgwLC0xOD
+I4NTc1Njc1LDIwMTU1MDIyNTksLTE4NDU0MDI0NjcsMTQ1NjM4
+NTI5MCwtMjA5MzYzOTU1MywtMzk3NTM1NzQsLTEzOTMzMjY1Ml
+19
 -->
