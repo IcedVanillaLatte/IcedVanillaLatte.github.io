@@ -8,6 +8,7 @@ toc: true
 toc_sticky: true
 published: true
 sidebar:
+	title: "GitHub Page 따라하기"
 	nav: github
 ---
 
@@ -121,8 +122,8 @@ sidebar:
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjQ1MTEzOSwyMTAxOTY5NDIzLC0xMD
-gwNzM0OTgwLC0xODI4NTc1Njc1LDIwMTU1MDIyNTksLTE4NDU0
-MDI0NjcsMTQ1NjM4NTI5MCwtMjA5MzYzOTU1MywtMzk3NTM1Nz
-QsLTEzOTMzMjY1Ml19
+eyJoaXN0b3J5IjpbOTIyMjI4NzA3LDE4NjY0NTExMzksMjEwMT
+k2OTQyMywtMTA4MDczNDk4MCwtMTgyODU3NTY3NSwyMDE1NTAy
+MjU5LC0xODQ1NDAyNDY3LDE0NTYzODUyOTAsLTIwOTM2Mzk1NT
+MsLTM5NzUzNTc0LC0xMzkzMzI2NTJdfQ==
 -->
