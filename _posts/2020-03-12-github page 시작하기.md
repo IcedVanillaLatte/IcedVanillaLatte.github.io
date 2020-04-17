@@ -155,11 +155,21 @@ private repository에 저장된 이미지도 링크를 가져와 GitHub page(pub
 
 GitHub Page에 처음 접속했을 때 보이는 글이나 이미지는 `index.html`을 통해 편집할 수 있다.
 
-![image](https://user-images.githubusercontent.com/61964210/79518253-92355680-808b-11ea-9458-c7933e25331f.png)
+![image](https://user-images.githubusercontent.com/61964210/79518325-c3ae2200-808b-11ea-8045-3b00a18c8de3.png)
 
-
+``` yml
+---
+layout: home
+author_profile: false
+title: "Odds and ends"
+excerpt: "Vanity of vanities"
+header:
+  overlay_image: /assets/images/IMG_2842.jpg
+  caption: "Last modified on March 2020"
+---
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzY1MjM3NDMsODAyMjIxNjA2LC0xOD
-c1NzY1MjkzLDE2OTc5ODk1MiwtNzk0MjkwNzE3LC02Mzg3MDM3
-MzIsLTk5ODM3MjcyNF19
+eyJoaXN0b3J5IjpbNDU4NDMyNjI5LDgwMjIyMTYwNiwtMTg3NT
+c2NTI5MywxNjk3OTg5NTIsLTc5NDI5MDcxNywtNjM4NzAzNzMy
+LC05OTgzNzI3MjRdfQ==
 -->
