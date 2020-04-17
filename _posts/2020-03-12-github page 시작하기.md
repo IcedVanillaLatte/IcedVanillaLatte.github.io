@@ -151,13 +151,27 @@ private 저장소를 만들면, 작성한 글을 private 저장소에 임시 저
 private repository에 저장된 이미지도 링크를 가져와 GitHub page(public repository)에서 사용할 수 있다.
 
 
+## 6. GitHub Page 대문 글 및 이미지
 
+GitHub Page에 처음 접속했을 때 보이는 글이나 이미지는 `index.html`을 통해 편집할 수 있다.
 
+![image](https://user-images.githubusercontent.com/61964210/79518325-c3ae2200-808b-11ea-8045-3b00a18c8de3.png)
 
+``` yml
+---
+layout: home
+author_profile: false
+title: "Odds and ends"
+excerpt: "Vanity of vanities"
+header:
+  overlay_image: /assets/images/IMG_2842.jpg
+  caption: "Last modified on March 2020"
+---
+```
 
-
+이 파일 편집을 통해 작성자를 소개할지 여부를 정하거나, 제목이나 소개 글, 이미지를 바꿀 수 있다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMjIxNjA2LC0xODc1NzY1MjkzLDE2OT
-c5ODk1MiwtNzk0MjkwNzE3LC02Mzg3MDM3MzIsLTk5ODM3Mjcy
-NF19
+eyJoaXN0b3J5IjpbLTk0NzgyOTQ1Myw4MDIyMjE2MDYsLTE4Nz
+U3NjUyOTMsMTY5Nzk4OTUyLC03OTQyOTA3MTcsLTYzODcwMzcz
+MiwtOTk4MzcyNzI0XX0=
 -->
