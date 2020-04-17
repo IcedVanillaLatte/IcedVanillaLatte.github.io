@@ -89,8 +89,11 @@ published: true
 ---
 ```
 
+## 6. Sidebar
+
+만약 한 주제로 여러 글들을 연속해서 포스팅한다면, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg1NzU2NzUsMjAxNTUwMjI1OSwtMT
-g0NTQwMjQ2NywxNDU2Mzg1MjkwLC0yMDkzNjM5NTUzLC0zOTc1
-MzU3NCwtMTM5MzMyNjUyXX0=
+eyJoaXN0b3J5IjpbLTIwMjY0ODIyMzQsLTE4Mjg1NzU2NzUsMj
+AxNTUwMjI1OSwtMTg0NTQwMjQ2NywxNDU2Mzg1MjkwLC0yMDkz
+NjM5NTUzLC0zOTc1MzU3NCwtMTM5MzMyNjUyXX0=
 -->
