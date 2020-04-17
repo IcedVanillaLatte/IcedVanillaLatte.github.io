@@ -7,6 +7,9 @@ tags:
 toc: true
 toc_sticky: true
 published: true
+sidebar:
+  title: "GitHub Page 따라하기"
+  nav: github
 ---
 
 ## LaTeX Script
@@ -128,6 +131,6 @@ GitHub page에서 위 스크립트가 정상적으로 로드되었다면, 아래
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAwMjU4Nyw4MTE4MTIwNjcsLTM5OD
-A3MjMwMywtMTk3ODQwNTM1OV19
+eyJoaXN0b3J5IjpbLTYyMTYyNjE3NywtMTc1MDAyNTg3LDgxMT
+gxMjA2NywtMzk4MDcyMzAzLC0xOTc4NDA1MzU5XX0=
 -->
