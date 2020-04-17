@@ -93,9 +93,19 @@ published: true
 
 만약 한 주제로 여러 글들을 연속해서 나누어 포스팅한다면, 관련된 글들을 모아 보여줌으로써 전체 글의 흐름을 파악할 수 있을 것이다. 이를 sidebar에 나타나도록 하려면, `_data/navigation.yml`을 편집하면 된다.
 
+```
+
+
+
+
+``` yml
+sidebar:
+  nav: "docs"
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA3MzQ5ODAsLTE4Mjg1NzU2NzUsMj
-AxNTUwMjI1OSwtMTg0NTQwMjQ2NywxNDU2Mzg1MjkwLC0yMDkz
-NjM5NTUzLC0zOTc1MzU3NCwtMTM5MzMyNjUyXX0=
+eyJoaXN0b3J5IjpbLTIwNjk4NzMxNiwtMTA4MDczNDk4MCwtMT
+gyODU3NTY3NSwyMDE1NTAyMjU5LC0xODQ1NDAyNDY3LDE0NTYz
+ODUyOTAsLTIwOTM2Mzk1NTMsLTM5NzUzNTc0LC0xMzkzMzI2NT
+JdfQ==
 -->
