@@ -91,9 +91,11 @@ published: true
 
 ## 6. Sidebar
 
-만약 한 주제로 여러 글들을 연속해서 포스팅한다면, 
+만약 한 주제로 여러 글들을 연속해서 나누어 포스팅한다면, 관련된 글들을 모아 보여줌으로써 전체 글의 흐름을 파악할 수 있을 것이다. 이를 sidebar에 나타나도록 하려면, `_data/navigation.yml`을 편집하면 된다.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY0ODIyMzQsLTE4Mjg1NzU2NzUsMj
+eyJoaXN0b3J5IjpbLTEwODA3MzQ5ODAsLTE4Mjg1NzU2NzUsMj
 AxNTUwMjI1OSwtMTg0NTQwMjQ2NywxNDU2Mzg1MjkwLC0yMDkz
 NjM5NTUzLC0zOTc1MzU3NCwtMTM5MzMyNjUyXX0=
 -->
