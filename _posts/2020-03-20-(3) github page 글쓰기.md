@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 published: true
 sidebar:
-	nav: "github"
+	nav: github
 ---
 
 - 참고 사이트
@@ -121,8 +121,8 @@ sidebar:
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTk2OTQyMywtMTA4MDczNDk4MCwtMT
-gyODU3NTY3NSwyMDE1NTAyMjU5LC0xODQ1NDAyNDY3LDE0NTYz
-ODUyOTAsLTIwOTM2Mzk1NTMsLTM5NzUzNTc0LC0xMzkzMzI2NT
-JdfQ==
+eyJoaXN0b3J5IjpbMTg2NjQ1MTEzOSwyMTAxOTY5NDIzLC0xMD
+gwNzM0OTgwLC0xODI4NTc1Njc1LDIwMTU1MDIyNTksLTE4NDU0
+MDI0NjcsMTQ1NjM4NTI5MCwtMjA5MzYzOTU1MywtMzk3NTM1Nz
+QsLTEzOTMzMjY1Ml19
 -->
