@@ -101,18 +101,20 @@ published: true
     - title: GitHub Page
       children:
         - title: "시작하기"
-          url: /_posts/2020-03-12-(1) github page 시작하기
+          url: /it/2020-03-12-(1) github page 시작하기
         - title: "레이아웃 정하기"
-          url: /_posts/2020-03-15-(2) github page 레이아웃
+          url: /it/2020-03-15-(2) github page 레이아웃
         - title: "글쓰기"
-          url: /_posts/2020-03-20-(3) github page 글쓰기
+          url: /it/2020-03-20-(3) github page 글쓰기
         - title: "LaTex 수식 표현하기"
-          url: /_posts/2020-03-20-(4) github page with LateX Expression
+          url: /it/2020-03-20-(4) github page with LateX Expression
         - title: "이미지 올리기"
-          url: /_posts/2020-03-20-(5) github page Image upload
+          url: /it/2020-03-20-(5) github page Image upload
         - title: "꾸미기"
-          url: /_posts/2020-04-03-(6) github page customizing
+          url: /it/2020-04-03-(6) github page customizing
 ```
+
+**url 링크 작성시 유의: 포스팅한 글들의 url은 해당 포스트의 카테고리에 따라 url이 만들어진다.  
 
 그리고 `_data/navigation.yml` 에서 사용한 키(여기서는 `github`)를 해당 글의 YAML Front Matter에 다음과 같이 추가해주자.
 
@@ -125,9 +127,9 @@ sidebar:
 {:.notice--warning}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzk3Njk4MCwtMTk0NzUzNDc0OSw5Mj
-IyMjg3MDcsMTg2NjQ1MTEzOSwyMTAxOTY5NDIzLC0xMDgwNzM0
-OTgwLC0xODI4NTc1Njc1LDIwMTU1MDIyNTksLTE4NDU0MDI0Nj
-csMTQ1NjM4NTI5MCwtMjA5MzYzOTU1MywtMzk3NTM1NzQsLTEz
-OTMzMjY1Ml19
+eyJoaXN0b3J5IjpbNjMxMjYyNTk4LDEwMTc5NzY5ODAsLTE5ND
+c1MzQ3NDksOTIyMjI4NzA3LDE4NjY0NTExMzksMjEwMTk2OTQy
+MywtMTA4MDczNDk4MCwtMTgyODU3NTY3NSwyMDE1NTAyMjU5LC
+0xODQ1NDAyNDY3LDE0NTYzODUyOTAsLTIwOTM2Mzk1NTMsLTM5
+NzUzNTc0LC0xMzkzMzI2NTJdfQ==
 -->
