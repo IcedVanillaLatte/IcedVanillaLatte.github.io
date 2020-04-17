@@ -118,13 +118,14 @@ published: true
 
 ``` yml
 sidebar:
-  nav: "github"
+  title: "GitHub Page 따라하기"
+  nav: github
 ```
-
+`title` 및 `nav` 키를 `tab`으로 띄우지 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODE3MzM0MSwtMTk0NzUzNDc0OSw5Mj
-IyMjg3MDcsMTg2NjQ1MTEzOSwyMTAxOTY5NDIzLC0xMDgwNzM0
-OTgwLC0xODI4NTc1Njc1LDIwMTU1MDIyNTksLTE4NDU0MDI0Nj
-csMTQ1NjM4NTI5MCwtMjA5MzYzOTU1MywtMzk3NTM1NzQsLTEz
-OTMzMjY1Ml19
+eyJoaXN0b3J5IjpbLTE3NDA3ODMxNzgsLTE5NDc1MzQ3NDksOT
+IyMjI4NzA3LDE4NjY0NTExMzksMjEwMTk2OTQyMywtMTA4MDcz
+NDk4MCwtMTgyODU3NTY3NSwyMDE1NTAyMjU5LC0xODQ1NDAyND
+Y3LDE0NTYzODUyOTAsLTIwOTM2Mzk1NTMsLTM5NzUzNTc0LC0x
+MzkzMzI2NTJdfQ==
 -->
