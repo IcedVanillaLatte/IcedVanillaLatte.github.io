@@ -21,14 +21,14 @@ main:
   #   url: /sitemap/
 github:
   - title: "시작하기"
-    url: /it/2020-03-12-(1) github page 시작하기
+    url: /it/(1) github page 시작하기
   - title: "레이아웃 정하기"
-    url: /it/2020-03-15-(2) github page 레이아웃
+    url: /it/(2) github page 레이아웃
   - title: "글쓰기"
-    url: /it/2020-03-20-(3) github page 글쓰기
+    url: /it/(3) github page 글쓰기
   - title: "LaTex 수식 표현하기"
-    url: /it/2020-03-20-(4) github page with LateX Expression
+    url: /it/(4) github page with LateX Expression
   - title: "이미지 올리기"
-    url: /it/2020-03-20-(5) github page Image upload
+    url: /it/(5) github page Image upload
   - title: "꾸미기"
-    url: /it/2020-04-03-(6) github page customizing
+    url: /it/(6) github page customizing
