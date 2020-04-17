@@ -20,7 +20,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   github:
-    - title: GitHub Page
+    - title: "GitHub Page"
       children:
         - title: "시작하기"
           url: /_posts/2020-03-12-(1) github page 시작하기
