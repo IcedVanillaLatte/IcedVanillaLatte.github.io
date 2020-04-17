@@ -114,7 +114,8 @@ published: true
           url: /it/2020-04-03-(6) github page customizing
 ```
 
-**url 링크 작성시 유의: 포스팅한 글들의 url은 해당 포스트의 카테고리에 따라 url이 만들어진다.  
+**url 링크 작성시 유의사항:** 포스팅한 글들의 url은 해당 포스트의 **카테고리**에 따라 url이 만들어진다.
+{:.notice--warning}
 
 그리고 `_data/navigation.yml` 에서 사용한 키(여기서는 `github`)를 해당 글의 YAML Front Matter에 다음과 같이 추가해주자.
 
@@ -127,9 +128,9 @@ sidebar:
 {:.notice--warning}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMjYyNTk4LDEwMTc5NzY5ODAsLTE5ND
-c1MzQ3NDksOTIyMjI4NzA3LDE4NjY0NTExMzksMjEwMTk2OTQy
-MywtMTA4MDczNDk4MCwtMTgyODU3NTY3NSwyMDE1NTAyMjU5LC
-0xODQ1NDAyNDY3LDE0NTYzODUyOTAsLTIwOTM2Mzk1NTMsLTM5
-NzUzNTc0LC0xMzkzMzI2NTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMDI2MDU1NTksMTAxNzk3Njk4MCwtMT
+k0NzUzNDc0OSw5MjIyMjg3MDcsMTg2NjQ1MTEzOSwyMTAxOTY5
+NDIzLC0xMDgwNzM0OTgwLC0xODI4NTc1Njc1LDIwMTU1MDIyNT
+ksLTE4NDU0MDI0NjcsMTQ1NjM4NTI5MCwtMjA5MzYzOTU1Mywt
+Mzk3NTM1NzQsLTEzOTMzMjY1Ml19
 -->
