@@ -7,6 +7,9 @@ tags:
 toc: true
 toc_sticky: true
 published: true
+sidebar:
+  title: "GitHub Page 따라하기"
+  nav: github
 ---
 
 이미지 포스팅을 위한 기본적인 마크다운 문법은 아래와 같다.
@@ -50,5 +53,5 @@ GitHub Page는 kramdown 문법을 지원하기 때문에, 첨부한 이미지의
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNDEwMDUwXX0=
+eyJoaXN0b3J5IjpbOTc1MjQzMTAwLDM3MDQxMDA1MF19
 -->
