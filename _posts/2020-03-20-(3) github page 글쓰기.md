@@ -4,12 +4,12 @@ categories: IT
 tags:
   - GitHub Page
   - Minimal Mistake
-toc: true
-toc_sticky: true
-published: true
 sidebar:
 	title: "GitHub Page 따라하기"
 	nav: github
+toc: true
+toc_sticky: true
+published: true
 ---
 
 - 참고 사이트
@@ -122,8 +122,9 @@ sidebar:
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyMjI4NzA3LDE4NjY0NTExMzksMjEwMT
-k2OTQyMywtMTA4MDczNDk4MCwtMTgyODU3NTY3NSwyMDE1NTAy
-MjU5LC0xODQ1NDAyNDY3LDE0NTYzODUyOTAsLTIwOTM2Mzk1NT
-MsLTM5NzUzNTc0LC0xMzkzMzI2NTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NDc1MzQ3NDksOTIyMjI4NzA3LDE4Nj
+Y0NTExMzksMjEwMTk2OTQyMywtMTA4MDczNDk4MCwtMTgyODU3
+NTY3NSwyMDE1NTAyMjU5LC0xODQ1NDAyNDY3LDE0NTYzODUyOT
+AsLTIwOTM2Mzk1NTMsLTM5NzUzNTc0LC0xMzkzMzI2NTJdfQ==
+
 -->
