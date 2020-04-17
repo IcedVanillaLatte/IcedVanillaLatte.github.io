@@ -9,6 +9,9 @@ tags:
 toc: true
 toc_sticky: true
 published: true
+sidebar:
+  title: "GitHub Page 따라하기"
+  nav: github
 ---
 
 ## Font size
@@ -234,6 +237,6 @@ graph TD
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTcxMDI2OTIsMTQ4NTQwMTI5LDExMD
-UxNDAyMF19
+eyJoaXN0b3J5IjpbLTEwODAyODk3MzgsLTEwOTcxMDI2OTIsMT
+Q4NTQwMTI5LDExMDUxNDAyMF19
 -->
