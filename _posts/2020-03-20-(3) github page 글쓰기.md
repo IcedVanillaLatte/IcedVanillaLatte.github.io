@@ -5,8 +5,8 @@ tags:
   - GitHub Page
   - Minimal Mistake
 sidebar:
-	title: "GitHub Page 따라하기"
-	nav: github
+  title: "GitHub Page 따라하기"
+  nav: github
 toc: true
 toc_sticky: true
 published: true
@@ -122,9 +122,9 @@ sidebar:
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc1MzQ3NDksOTIyMjI4NzA3LDE4Nj
-Y0NTExMzksMjEwMTk2OTQyMywtMTA4MDczNDk4MCwtMTgyODU3
-NTY3NSwyMDE1NTAyMjU5LC0xODQ1NDAyNDY3LDE0NTYzODUyOT
-AsLTIwOTM2Mzk1NTMsLTM5NzUzNTc0LC0xMzkzMzI2NTJdfQ==
-
+eyJoaXN0b3J5IjpbLTQ3ODE3MzM0MSwtMTk0NzUzNDc0OSw5Mj
+IyMjg3MDcsMTg2NjQ1MTEzOSwyMTAxOTY5NDIzLC0xMDgwNzM0
+OTgwLC0xODI4NTc1Njc1LDIwMTU1MDIyNTksLTE4NDU0MDI0Nj
+csMTQ1NjM4NTI5MCwtMjA5MzYzOTU1MywtMzk3NTM1NzQsLTEz
+OTMzMjY1Ml19
 -->
