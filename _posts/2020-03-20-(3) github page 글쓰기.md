@@ -22,7 +22,8 @@ YEAR-MONTH-DAY-title.md
 ```
 `YEAR`는 4자리, `MONTH`와 `DAY`는 2자리 숫자로 작성한다. `title`은 **띄어쓰기가 허용**된다.
 
-날짜와 포스트의 제목 사이에 `-`를 빼먹지 않도록 유의하자.{: .notice--warning}
+날짜와 포스트의 제목 사이에 `-`를 빼먹지 않도록 유의하자.
+{: .notice--warning}
 
 ## 2. YAML Front Matter
 
@@ -89,7 +90,7 @@ published: true
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTUwMjI1OSwtMTg0NTQwMjQ2NywxND
-U2Mzg1MjkwLC0yMDkzNjM5NTUzLC0zOTc1MzU3NCwtMTM5MzMy
-NjUyXX0=
+eyJoaXN0b3J5IjpbLTE4Mjg1NzU2NzUsMjAxNTUwMjI1OSwtMT
+g0NTQwMjQ2NywxNDU2Mzg1MjkwLC0yMDkzNjM5NTUzLC0zOTc1
+MzU3NCwtMTM5MzMyNjUyXX0=
 -->
