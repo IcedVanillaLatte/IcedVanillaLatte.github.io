@@ -7,6 +7,9 @@ tags:
 toc: true
 toc_sticky: true
 published: true
+sidebar:
+  title: "GitHub Page 따라하기"
+  nav: github
 ---
 
 GitHub Page로 블로그를 만들어보자. GitHub Page에서 자체 제공하는 테마도 있지만, 여기에서는 Jekyll 테마를 사용한다. 그 중에서도 가장 잘 팔리고 있는 Minimal Mistake 테마를 기준으로 작성했다.
@@ -171,5 +174,5 @@ header:
 
 이 파일 편집을 통해 작성자를 소개할지 여부를 정하거나, 제목이나 소개 글, 이미지를 바꿀 수 있다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzgyOTQ1M119
+eyJoaXN0b3J5IjpbMTUyNDg1MTkyOSwtOTQ3ODI5NDUzXX0=
 -->
