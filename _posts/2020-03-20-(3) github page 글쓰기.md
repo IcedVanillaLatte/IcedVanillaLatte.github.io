@@ -7,6 +7,8 @@ tags:
 toc: true
 toc_sticky: true
 published: true
+sidebar:
+	nav: "github"
 ---
 
 - 참고 사이트
@@ -111,18 +113,16 @@ published: true
           url: /_posts/2020-04-03-(6) github page customizing
 ```
 
-그리고 `_data/navigation.yml` 에서 사용한 키(여기서는 `github`)를 해당 글의 YAML Front Matter에 
-
-
+그리고 `_data/navigation.yml` 에서 사용한 키(여기서는 `github`)를 해당 글의 YAML Front Matter에 다음과 같이 추가해주자.
 
 ``` yml
 sidebar:
-  nav: "docs"
+  nav: "github"
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2NTQ1MzY2LC0xMDgwNzM0OTgwLC0xOD
-I4NTc1Njc1LDIwMTU1MDIyNTksLTE4NDU0MDI0NjcsMTQ1NjM4
-NTI5MCwtMjA5MzYzOTU1MywtMzk3NTM1NzQsLTEzOTMzMjY1Ml
-19
+eyJoaXN0b3J5IjpbMjEwMTk2OTQyMywtMTA4MDczNDk4MCwtMT
+gyODU3NTY3NSwyMDE1NTAyMjU5LC0xODQ1NDAyNDY3LDE0NTYz
+ODUyOTAsLTIwOTM2Mzk1NTMsLTM5NzUzNTc0LC0xMzkzMzI2NT
+JdfQ==
 -->
