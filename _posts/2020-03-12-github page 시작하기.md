@@ -168,8 +168,10 @@ header:
   caption: "Last modified on March 2020"
 ---
 ```
+
+이 파일 편집을 통해 작성자를 소개할지 여부를 정하거나, 제목이나 소개 글, 이미지를 바꿀 수 있다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4NDMyNjI5LDgwMjIyMTYwNiwtMTg3NT
-c2NTI5MywxNjk3OTg5NTIsLTc5NDI5MDcxNywtNjM4NzAzNzMy
-LC05OTgzNzI3MjRdfQ==
+eyJoaXN0b3J5IjpbLTk0NzgyOTQ1Myw4MDIyMjE2MDYsLTE4Nz
+U3NjUyOTMsMTY5Nzk4OTUyLC03OTQyOTA3MTcsLTYzODcwMzcz
+MiwtOTk4MzcyNzI0XX0=
 -->
