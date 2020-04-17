@@ -97,21 +97,19 @@ published: true
 만약 한 주제로 여러 글들을 연속해서 나누어 포스팅한다면, 관련된 글들을 모아 보여줌으로써 전체 글의 흐름을 파악할 수 있을 것이다. 이를 sidebar에 나타나도록 하려면, `_data/navigation.yml`을 편집하면 된다.
 
 ``` yml
-  github:
-    - title: GitHub Page
-      children:
-        - title: "시작하기"
-          url: /it/(1)-github-page-시작하기
-        - title: "레이아웃 정하기"
-          url: /it/(2)-github-page-레이아웃
-        - title: "글쓰기"
-          url: /it/(3) github page 글쓰기
-        - title: "LaTex 수식 표현하기"
-          url: /it/(4) github page with LateX Expression
-        - title: "이미지 올리기"
-          url: /it/(5) github page Image upload
-        - title: "꾸미기"
-          url: /it/(6) github page customizing
+github:
+  - title: "시작하기"
+    url: /it/(1)-github-page-시작하기
+  - title: "레이아웃 정하기"
+    url: /it/(2)-github-page-레이아웃
+  - title: "글쓰기"
+    url: /it/(3)-github-page-글쓰기
+  - title: "LaTex 수식 표현하기"
+    url: /it/(4)-github-page-with-LateX-Expression
+  - title: "이미지 올리기"
+    url: /it/(5)-github-page-Image-upload
+  - title: "꾸미기"
+    url: /it/(6)-github-page-customizing
 ```
 
 **url 링크 작성시 유의사항:** 포스팅한 글들의 url은 해당 포스트의 **카테고리**에 따라 url이 만들어진다. 따라서, **카테고리**와 **타이틀**을 잘 구분해서 url을 작성해주자. 또한, 공백문자는 `-`으로 매꿔주자.
@@ -128,7 +126,7 @@ sidebar:
 {:.notice--warning}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ2MzI1MDQsLTIxMDI2MDU1NTksMT
+eyJoaXN0b3J5IjpbLTE2MzI1MzgwMzksLTIxMDI2MDU1NTksMT
 AxNzk3Njk4MCwtMTk0NzUzNDc0OSw5MjIyMjg3MDcsMTg2NjQ1
 MTEzOSwyMTAxOTY5NDIzLC0xMDgwNzM0OTgwLC0xODI4NTc1Nj
 c1LDIwMTU1MDIyNTksLTE4NDU0MDI0NjcsMTQ1NjM4NTI5MCwt
