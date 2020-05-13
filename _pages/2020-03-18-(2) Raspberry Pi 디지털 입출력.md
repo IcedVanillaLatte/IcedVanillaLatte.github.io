@@ -2,6 +2,8 @@
 title: "Raspberry Pi 디지털 입출력"
 categories: IT
 tags:
+  - GPIO
+  - LED
   - Raspberry Pi
 toc: true
 toc_sticky: true
@@ -41,5 +43,5 @@ GPIO.cleanup() #GPIO를 초기화
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NTk1MzE2XX0=
+eyJoaXN0b3J5IjpbLTM0NDk0NTk0LDcyODU5NTMxNl19
 -->
