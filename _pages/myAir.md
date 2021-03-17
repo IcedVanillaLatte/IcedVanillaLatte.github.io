@@ -1,5 +1,5 @@
 ---
-title: Air Quality at 2021-03-17 17:10:00
+title: Air Quality at 2021-03-17 17:20:00
 layout: single
 permalink: /myairq/
 ---
@@ -7,7 +7,7 @@ permalink: /myairq/
 
 <html xmlns="https://www.w3.org/1999/xhtml">
 <head>
-<title>MergedID1397485026d6</title>
+<title>MergedID156a462d1b0</title>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <style type="text/css">
 body {
@@ -22,24 +22,24 @@ body {
 </style>
 </head>
 <body> <!-- Table generated in R 3.5.2 by googleVis 0.6.4 package -->
-<!-- Wed Mar 17 17:10:07 2021 -->
+<!-- Wed Mar 17 17:20:06 2021 -->
 
 
 <!-- jsHeader -->
 <script type="text/javascript">
  
 // jsData 
-function gvisDataTableID13971f91e865 () {
+function gvisDataTableID156a21b75153 () {
 var data = new google.visualization.DataTable();
 var datajson =
 [
  [
-22.85,
-24.89,
-1012.51,
+22.44,
+32.22,
+1012.52,
 400,
-29.8,
-10
+28.5,
+10.3
 ] 
 ];
 data.addColumn('number','Temperature (C)');
@@ -54,61 +54,11 @@ return(data);
 
 
 // jsData 
-function gvisDataLineChartID13975cbe8b1 () {
+function gvisDataLineChartID156a5fe24843 () {
 var data = new google.visualization.DataTable();
 var datajson =
 [
  [
-new Date(2021,2,17,9,10,0),
-23.69,
-51.23
-],
-[
-new Date(2021,2,17,9,11,0),
-23.7,
-52.11
-],
-[
-new Date(2021,2,17,9,12,0),
-23.71,
-51.81
-],
-[
-new Date(2021,2,17,9,13,0),
-23.72,
-51.67
-],
-[
-new Date(2021,2,17,9,14,0),
-23.73,
-51.75
-],
-[
-new Date(2021,2,17,9,15,0),
-23.73,
-51.43
-],
-[
-new Date(2021,2,17,9,16,0),
-23.74,
-51.81
-],
-[
-new Date(2021,2,17,9,17,0),
-23.74,
-52.03
-],
-[
-new Date(2021,2,17,9,18,0),
-23.73,
-51.82
-],
-[
-new Date(2021,2,17,9,19,0),
-23.72,
-51.56
-],
-[
 new Date(2021,2,17,9,20,0),
 23.71,
 51.26
@@ -2462,6 +2412,56 @@ new Date(2021,2,17,17,9,0),
 new Date(2021,2,17,17,10,0),
 22.85,
 24.89
+],
+[
+new Date(2021,2,17,17,11,0),
+22.77,
+24.96
+],
+[
+new Date(2021,2,17,17,12,0),
+22.65,
+26.03
+],
+[
+new Date(2021,2,17,17,13,0),
+22.57,
+25.37
+],
+[
+new Date(2021,2,17,17,14,0),
+22.52,
+25.6
+],
+[
+new Date(2021,2,17,17,15,0),
+22.46,
+25.1
+],
+[
+new Date(2021,2,17,17,16,0),
+22.42,
+28.83
+],
+[
+new Date(2021,2,17,17,17,0),
+22.35,
+28.37
+],
+[
+new Date(2021,2,17,17,18,0),
+22.31,
+27.64
+],
+[
+new Date(2021,2,17,17,19,0),
+22.39,
+30.12
+],
+[
+new Date(2021,2,17,17,20,0),
+22.44,
+32.22
 ] 
 ];
 data.addColumn('datetime','time');
@@ -2473,61 +2473,11 @@ return(data);
 
 
 // jsData 
-function gvisDataAreaChartID1397270eb67e () {
+function gvisDataAreaChartID156a44cb88d9 () {
 var data = new google.visualization.DataTable();
 var datajson =
 [
  [
-new Date(2021,2,17,9,10,0),
-1015.54,
-"#9B59B6"
-],
-[
-new Date(2021,2,17,9,11,0),
-1015.62,
-"#9B59B6"
-],
-[
-new Date(2021,2,17,9,12,0),
-1015.63,
-"#9B59B6"
-],
-[
-new Date(2021,2,17,9,13,0),
-1015.58,
-"#9B59B6"
-],
-[
-new Date(2021,2,17,9,14,0),
-1015.63,
-"#9B59B6"
-],
-[
-new Date(2021,2,17,9,15,0),
-1015.58,
-"#9B59B6"
-],
-[
-new Date(2021,2,17,9,16,0),
-1015.6,
-"#9B59B6"
-],
-[
-new Date(2021,2,17,9,17,0),
-1015.61,
-"#9B59B6"
-],
-[
-new Date(2021,2,17,9,18,0),
-1015.66,
-"#9B59B6"
-],
-[
-new Date(2021,2,17,9,19,0),
-1015.71,
-"#9B59B6"
-],
-[
 new Date(2021,2,17,9,20,0),
 1015.69,
 "#9B59B6"
@@ -4881,6 +4831,56 @@ new Date(2021,2,17,17,9,0),
 new Date(2021,2,17,17,10,0),
 1012.51,
 "#9B59B6"
+],
+[
+new Date(2021,2,17,17,11,0),
+1012.53,
+"#9B59B6"
+],
+[
+new Date(2021,2,17,17,12,0),
+1012.54,
+"#9B59B6"
+],
+[
+new Date(2021,2,17,17,13,0),
+1012.5,
+"#9B59B6"
+],
+[
+new Date(2021,2,17,17,14,0),
+1012.55,
+"#9B59B6"
+],
+[
+new Date(2021,2,17,17,15,0),
+1012.51,
+"#9B59B6"
+],
+[
+new Date(2021,2,17,17,16,0),
+1012.5,
+"#9B59B6"
+],
+[
+new Date(2021,2,17,17,17,0),
+1012.53,
+"#9B59B6"
+],
+[
+new Date(2021,2,17,17,18,0),
+1012.53,
+"#9B59B6"
+],
+[
+new Date(2021,2,17,17,19,0),
+1012.52,
+"#9B59B6"
+],
+[
+new Date(2021,2,17,17,20,0),
+1012.52,
+"#9B59B6"
 ] 
 ];
 data.addColumn('datetime','time');
@@ -4892,61 +4892,11 @@ return(data);
 
 
 // jsData 
-function gvisDataAreaChartID13977736b3e4 () {
+function gvisDataAreaChartID156a442d637d () {
 var data = new google.visualization.DataTable();
 var datajson =
 [
  [
-new Date(2021,2,17,9,10,0),
-1446,
-"#FF9804"
-],
-[
-new Date(2021,2,17,9,11,0),
-1430,
-"#FF9804"
-],
-[
-new Date(2021,2,17,9,12,0),
-1419,
-"#FF9804"
-],
-[
-new Date(2021,2,17,9,13,0),
-1407,
-"#FF9804"
-],
-[
-new Date(2021,2,17,9,14,0),
-1411,
-"#FF9804"
-],
-[
-new Date(2021,2,17,9,15,0),
-1420,
-"#FF9804"
-],
-[
-new Date(2021,2,17,9,16,0),
-1422,
-"#FF9804"
-],
-[
-new Date(2021,2,17,9,17,0),
-1423,
-"#FF9804"
-],
-[
-new Date(2021,2,17,9,18,0),
-1411,
-"#FF9804"
-],
-[
-new Date(2021,2,17,9,19,0),
-1401,
-"#FF9804"
-],
-[
 new Date(2021,2,17,9,20,0),
 1451,
 "#FF9804"
@@ -7300,6 +7250,56 @@ new Date(2021,2,17,17,9,0),
 new Date(2021,2,17,17,10,0),
 400,
 "#4E89F6"
+],
+[
+new Date(2021,2,17,17,11,0),
+400,
+"#4E89F6"
+],
+[
+new Date(2021,2,17,17,12,0),
+400,
+"#4E89F6"
+],
+[
+new Date(2021,2,17,17,13,0),
+400,
+"#4E89F6"
+],
+[
+new Date(2021,2,17,17,14,0),
+400,
+"#4E89F6"
+],
+[
+new Date(2021,2,17,17,15,0),
+400,
+"#4E89F6"
+],
+[
+new Date(2021,2,17,17,16,0),
+400,
+"#4E89F6"
+],
+[
+new Date(2021,2,17,17,17,0),
+400,
+"#4E89F6"
+],
+[
+new Date(2021,2,17,17,18,0),
+400,
+"#4E89F6"
+],
+[
+new Date(2021,2,17,17,19,0),
+400,
+"#4E89F6"
+],
+[
+new Date(2021,2,17,17,20,0),
+400,
+"#4E89F6"
 ] 
 ];
 data.addColumn('datetime','time');
@@ -7311,16 +7311,11 @@ return(data);
 
 
 // jsData 
-function gvisDataColumnChartID13971adb77c5 () {
+function gvisDataColumnChartID156a37ce0af3 () {
 var data = new google.visualization.DataTable();
 var datajson =
 [
  [
-new Date(2021,2,17,9,10,0),
-4.8,
-"#4E89F6"
-],
-[
 new Date(2021,2,17,9,20,0),
 2.8,
 "#4E89F6"
@@ -7559,6 +7554,11 @@ new Date(2021,2,17,17,0,0),
 new Date(2021,2,17,17,10,0),
 29.8,
 "#4E89F6"
+],
+[
+new Date(2021,2,17,17,20,0),
+28.5,
+"#4E89F6"
 ] 
 ];
 data.addColumn('datetime','time');
@@ -7570,16 +7570,11 @@ return(data);
 
 
 // jsData 
-function gvisDataColumnChartID139762ca5c73 () {
+function gvisDataColumnChartID156a2d4fc6e9 () {
 var data = new google.visualization.DataTable();
 var datajson =
 [
  [
-new Date(2021,2,17,9,10,0),
-1.8,
-"#4E89F6"
-],
-[
 new Date(2021,2,17,9,20,0),
 1.7,
 "#4E89F6"
@@ -7818,6 +7813,11 @@ new Date(2021,2,17,17,0,0),
 new Date(2021,2,17,17,10,0),
 10,
 "#4E89F6"
+],
+[
+new Date(2021,2,17,17,20,0),
+10.3,
+"#4E89F6"
 ] 
 ];
 data.addColumn('datetime','time');
@@ -7828,15 +7828,15 @@ return(data);
 }
  
 // jsDrawChart
-function drawChartTableID13971f91e865() {
-var data = gvisDataTableID13971f91e865();
+function drawChartTableID156a21b75153() {
+var data = gvisDataTableID156a21b75153();
 var options = {};
 options["allowHtml"] = true;
 options["width"] = 600;
 
 
     var chart = new google.visualization.Table(
-    document.getElementById('TableID13971f91e865')
+    document.getElementById('TableID156a21b75153')
     );
     chart.draw(data,options);
     
@@ -7846,8 +7846,8 @@ options["width"] = 600;
 
 
 // jsDrawChart
-function drawChartLineChartID13975cbe8b1() {
-var data = gvisDataLineChartID13975cbe8b1();
+function drawChartLineChartID156a5fe24843() {
+var data = gvisDataLineChartID156a5fe24843();
 var options = {};
 options["allowHtml"] = true;
 options["title"] = "Temperature and Humidity";
@@ -7858,7 +7858,7 @@ options["width"] = 600;
 
 
     var chart = new google.visualization.LineChart(
-    document.getElementById('LineChartID13975cbe8b1')
+    document.getElementById('LineChartID156a5fe24843')
     );
     chart.draw(data,options);
     
@@ -7868,8 +7868,8 @@ options["width"] = 600;
 
 
 // jsDrawChart
-function drawChartAreaChartID1397270eb67e() {
-var data = gvisDataAreaChartID1397270eb67e();
+function drawChartAreaChartID156a44cb88d9() {
+var data = gvisDataAreaChartID156a44cb88d9();
 var options = {};
 options["allowHtml"] = true;
 options["title"] = "Air Pressure";
@@ -7879,7 +7879,7 @@ options["width"] = 600;
 
 
     var chart = new google.visualization.AreaChart(
-    document.getElementById('AreaChartID1397270eb67e')
+    document.getElementById('AreaChartID156a44cb88d9')
     );
     chart.draw(data,options);
     
@@ -7889,8 +7889,8 @@ options["width"] = 600;
 
 
 // jsDrawChart
-function drawChartAreaChartID13977736b3e4() {
-var data = gvisDataAreaChartID13977736b3e4();
+function drawChartAreaChartID156a442d637d() {
+var data = gvisDataAreaChartID156a442d637d();
 var options = {};
 options["allowHtml"] = true;
 options["title"] = "CO2 Level";
@@ -7900,7 +7900,7 @@ options["width"] = 600;
 
 
     var chart = new google.visualization.AreaChart(
-    document.getElementById('AreaChartID13977736b3e4')
+    document.getElementById('AreaChartID156a442d637d')
     );
     chart.draw(data,options);
     
@@ -7910,8 +7910,8 @@ options["width"] = 600;
 
 
 // jsDrawChart
-function drawChartColumnChartID13971adb77c5() {
-var data = gvisDataColumnChartID13971adb77c5();
+function drawChartColumnChartID156a37ce0af3() {
+var data = gvisDataColumnChartID156a37ce0af3();
 var options = {};
 options["allowHtml"] = true;
 options["title"] = "PM 10";
@@ -7921,7 +7921,7 @@ options["width"] = 600;
 
 
     var chart = new google.visualization.ColumnChart(
-    document.getElementById('ColumnChartID13971adb77c5')
+    document.getElementById('ColumnChartID156a37ce0af3')
     );
     chart.draw(data,options);
     
@@ -7931,8 +7931,8 @@ options["width"] = 600;
 
 
 // jsDrawChart
-function drawChartColumnChartID139762ca5c73() {
-var data = gvisDataColumnChartID139762ca5c73();
+function drawChartColumnChartID156a2d4fc6e9() {
+var data = gvisDataColumnChartID156a2d4fc6e9();
 var options = {};
 options["allowHtml"] = true;
 options["title"] = "PM 2.5";
@@ -7942,7 +7942,7 @@ options["width"] = 600;
 
 
     var chart = new google.visualization.ColumnChart(
-    document.getElementById('ColumnChartID139762ca5c73')
+    document.getElementById('ColumnChartID156a2d4fc6e9')
     );
     chart.draw(data,options);
     
@@ -7966,9 +7966,9 @@ if (newPackage)
   pkgs.push(chartid);
   
 // Add the drawChart function to the global list of callbacks
-callbacks.push(drawChartTableID13971f91e865);
+callbacks.push(drawChartTableID156a21b75153);
 })();
-function displayChartTableID13971f91e865() {
+function displayChartTableID156a21b75153() {
   var pkgs = window.__gvisPackages = window.__gvisPackages || [];
   var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
   window.clearTimeout(window.__gvisLoad);
@@ -8005,9 +8005,9 @@ if (newPackage)
   pkgs.push(chartid);
   
 // Add the drawChart function to the global list of callbacks
-callbacks.push(drawChartLineChartID13975cbe8b1);
+callbacks.push(drawChartLineChartID156a5fe24843);
 })();
-function displayChartLineChartID13975cbe8b1() {
+function displayChartLineChartID156a5fe24843() {
   var pkgs = window.__gvisPackages = window.__gvisPackages || [];
   var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
   window.clearTimeout(window.__gvisLoad);
@@ -8044,9 +8044,9 @@ if (newPackage)
   pkgs.push(chartid);
   
 // Add the drawChart function to the global list of callbacks
-callbacks.push(drawChartAreaChartID1397270eb67e);
+callbacks.push(drawChartAreaChartID156a44cb88d9);
 })();
-function displayChartAreaChartID1397270eb67e() {
+function displayChartAreaChartID156a44cb88d9() {
   var pkgs = window.__gvisPackages = window.__gvisPackages || [];
   var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
   window.clearTimeout(window.__gvisLoad);
@@ -8083,9 +8083,9 @@ if (newPackage)
   pkgs.push(chartid);
   
 // Add the drawChart function to the global list of callbacks
-callbacks.push(drawChartAreaChartID13977736b3e4);
+callbacks.push(drawChartAreaChartID156a442d637d);
 })();
-function displayChartAreaChartID13977736b3e4() {
+function displayChartAreaChartID156a442d637d() {
   var pkgs = window.__gvisPackages = window.__gvisPackages || [];
   var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
   window.clearTimeout(window.__gvisLoad);
@@ -8122,9 +8122,9 @@ if (newPackage)
   pkgs.push(chartid);
   
 // Add the drawChart function to the global list of callbacks
-callbacks.push(drawChartColumnChartID13971adb77c5);
+callbacks.push(drawChartColumnChartID156a37ce0af3);
 })();
-function displayChartColumnChartID13971adb77c5() {
+function displayChartColumnChartID156a37ce0af3() {
   var pkgs = window.__gvisPackages = window.__gvisPackages || [];
   var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
   window.clearTimeout(window.__gvisLoad);
@@ -8161,9 +8161,9 @@ if (newPackage)
   pkgs.push(chartid);
   
 // Add the drawChart function to the global list of callbacks
-callbacks.push(drawChartColumnChartID139762ca5c73);
+callbacks.push(drawChartColumnChartID156a2d4fc6e9);
 })();
-function displayChartColumnChartID139762ca5c73() {
+function displayChartColumnChartID156a2d4fc6e9() {
   var pkgs = window.__gvisPackages = window.__gvisPackages || [];
   var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
   window.clearTimeout(window.__gvisLoad);
@@ -8187,27 +8187,27 @@ callbacks.shift()();
 </script>
  
 <!-- jsChart -->  
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartTableID13971f91e865"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartTableID156a21b75153"></script>
 
 
 <!-- jsChart -->  
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartLineChartID13975cbe8b1"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartLineChartID156a5fe24843"></script>
 
 
 <!-- jsChart -->  
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartAreaChartID1397270eb67e"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartAreaChartID156a44cb88d9"></script>
 
 
 <!-- jsChart -->  
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartAreaChartID13977736b3e4"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartAreaChartID156a442d637d"></script>
 
 
 <!-- jsChart -->  
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartColumnChartID13971adb77c5"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartColumnChartID156a37ce0af3"></script>
 
 
 <!-- jsChart -->  
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartColumnChartID139762ca5c73"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartColumnChartID156a2d4fc6e9"></script>
  
 <table border="0">
 <tr>
@@ -8231,7 +8231,7 @@ callbacks.shift()();
 
 <!-- divChart -->
   
-<div id="TableID13971f91e865" 
+<div id="TableID156a21b75153" 
   style="width: 600; height: automatic;">
 </div>
 
@@ -8242,7 +8242,7 @@ callbacks.shift()();
 
 <!-- divChart -->
   
-<div id="LineChartID13975cbe8b1" 
+<div id="LineChartID156a5fe24843" 
   style="width: 600; height: automatic;">
 </div>
 
@@ -8257,7 +8257,7 @@ callbacks.shift()();
 
 <!-- divChart -->
   
-<div id="AreaChartID1397270eb67e" 
+<div id="AreaChartID156a44cb88d9" 
   style="width: 600; height: automatic;">
 </div>
 
@@ -8272,7 +8272,7 @@ callbacks.shift()();
 
 <!-- divChart -->
   
-<div id="AreaChartID13977736b3e4" 
+<div id="AreaChartID156a442d637d" 
   style="width: 600; height: automatic;">
 </div>
 
@@ -8287,7 +8287,7 @@ callbacks.shift()();
 
 <!-- divChart -->
   
-<div id="ColumnChartID13971adb77c5" 
+<div id="ColumnChartID156a37ce0af3" 
   style="width: 600; height: automatic;">
 </div>
 
@@ -8302,14 +8302,14 @@ callbacks.shift()();
 
 <!-- divChart -->
   
-<div id="ColumnChartID139762ca5c73" 
+<div id="ColumnChartID156a2d4fc6e9" 
   style="width: 600; height: automatic;">
 </div>
 
 </td>
 </tr>
 </table>
- <div><span>Data: various &#8226; Chart ID: <a href="Chart_MergedID1397485026d6.html">MergedID1397485026d6</a> &#8226; <a href="https://github.com/mages/googleVis">googleVis-0.6.4</a></span><br /> 
+ <div><span>Data: various &#8226; Chart ID: <a href="Chart_MergedID156a462d1b0.html">MergedID156a462d1b0</a> &#8226; <a href="https://github.com/mages/googleVis">googleVis-0.6.4</a></span><br /> 
 <!-- htmlFooter -->
 <span> 
   R version 3.5.2 (2018-12-20) 
