@@ -1,5 +1,5 @@
 ---
-title: Air Quality at 2024-02-17 18:50:00
+title: Air Quality at 2024-02-17 18:50:00 - test
 layout: single
 permalink: /myairq/
 ---
