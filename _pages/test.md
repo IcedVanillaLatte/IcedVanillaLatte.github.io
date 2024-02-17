@@ -1,7 +1,7 @@
 ---
 title: "Test Page"
 permalink: /test/
-
+layout: single
 toc: true
 toc_sticky: true
 published: true
