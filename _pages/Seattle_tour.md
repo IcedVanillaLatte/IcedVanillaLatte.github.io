@@ -1,12 +1,12 @@
 ---
-title: "Seattle"
-permalink: /test2/
+title: "Layover in Seattle"
+permalink: /seattle/
 layout: single
 toc: true
 toc_sticky: true
 published: true
 ---
-## Seattle Layover
+## Layover in Seattle - One Day Trip
 
 ### 1. ORCA 구매 및 충전
 
