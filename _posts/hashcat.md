@@ -177,3 +177,94 @@ Hashcat에서 `-a` 옵션 뒤에 올 수 있는 공격 모드(attack modes)는 �
 - **`-a 10`**: 다중 사전 공격 (Multiple Dictionary Attack)
 
 이 공격 모드들은 다양한 해시 크래킹 전략을 지원하며, 크래킹할 해시의 유형과 필요에 따라 적절한 모드를 선택하여 사용할 수 있습니다.
+
+
+## 6. 추천 방법
+
+사용 dictionary : rockyou.txt [출처](https://weakpass.com/)
+사용 Rule : OneRuleToRuleThemStill [출처](https://github.com/stealthsploit/OneRuleToRuleThemStill)
+[그 외 참고](https://viperone.gitbook.io/pentest-everything/resources/hashcat-word-lists-and-rules)
+
+```
+>hashcat -m 1800 -a 0 -w 3 hash.txt rockyou.txt -r OneRuleToRuleThemStill.rule -O
+hashcat (v6.2.6) starting
+
+Successfully initialized the NVIDIA main driver CUDA runtime library.
+
+Failed to initialize NVIDIA RTC library.
+
+* Device #1: CUDA SDK Toolkit not installed or incorrectly installed.
+             CUDA SDK Toolkit required for proper device support and utilization.
+             Falling back to OpenCL runtime.
+
+* Device #1: WARNING! Kernel exec timeout is not disabled.
+             This may cause "CL_OUT_OF_RESOURCES" or related errors.
+             To disable the timeout, see: https://hashcat.net/q/timeoutpatch
+nvmlDeviceGetFanSpeed(): Not Supported
+
+OpenCL API (OpenCL 3.0 CUDA 12.4.131) - Platform #1 [NVIDIA Corporation]
+========================================================================
+* Device #1: NVIDIA GeForce RTX 3070 Laptop GPU, 8064/8191 MB (2047 MB allocatable), 40MCU
+
+OpenCL API (OpenCL 3.0 ) - Platform #2 [Intel(R) Corporation]
+=============================================================
+* Device #2: Intel(R) UHD Graphics, 6464/13003 MB (2047 MB allocatable), 32MCU
+
+Minimum password length supported by kernel: 0
+Maximum password length supported by kernel: 15
+
+Hashes: 1 digests; 1 unique digests, 1 unique salts
+Bitmaps: 16 bits, 65536 entries, 0x0000ffff mask, 262144 bytes, 5/13 rotates
+Rules: 48414
+
+Optimizers applied:
+* Optimized-Kernel
+* Zero-Byte
+* Single-Hash
+* Single-Salt
+* Uses-64-Bit
+
+Watchdog: Temperature abort trigger set to 90c
+
+Host memory required for this attack: 562 MB
+
+Dictionary cache built:
+* Filename..: rockyou.txt
+* Passwords.: 14344391
+* Bytes.....: 139921497
+* Keyspace..: 694469006976
+* Runtime...: 1 sec
+
+$6$aoSO5SU.$cljwQrhoEwb1ikG96T3E8Hgp01zBUBrD5BhMiKuj8g.0i3NL2SolZaEcfbrAcumqQtA7LbfIJlAgN6SkMXlVs1:qwer1234
+
+Session..........: hashcat
+Status...........: Cracked
+Hash.Mode........: 1800 (sha512crypt $6$, SHA512 (Unix))
+Hash.Target......: $6$aoSO5SU.$cljwQrhoEwb1ikG96T3E8Hgp01zBUBrD5BhMiKu...MXlVs1
+Time.Started.....: Tue Aug 06 20:27:52 2024 (1 sec)
+Time.Estimated...: Tue Aug 06 20:27:53 2024 (0 secs)
+Kernel.Feature...: Optimized Kernel
+Guess.Base.......: File (rockyou.txt)
+Guess.Mod........: Rules (OneRuleToRuleThemStill.rule)
+Guess.Queue......: 1/1 (100.00%)
+Speed.#1.........:   175.1 kH/s (74.12ms) @ Accel:512 Loops:512 Thr:256 Vec:1
+Speed.#2.........:     4218 H/s (72.45ms) @ Accel:768 Loops:128 Thr:16 Vec:1
+Speed.#*.........:   179.3 kH/s
+Recovered........: 1/1 (100.00%) Digests (total), 1/1 (100.00%) Digests (new)
+Progress.........: 4391504/694469006976 (0.00%)
+Rejected.........: 4260432/4391504 (97.02%)
+Restore.Point....: 0/14344384 (0.00%)
+Restore.Sub.#1...: Salt:0 Amplifier:0-1 Iteration:4608-5000
+Restore.Sub.#2...: Salt:0 Amplifier:0-1 Iteration:1280-1408
+Candidate.Engine.: Device Generator
+Candidates.#1....: 123456 -> 230923
+Candidates.#2....: korn13 -> 252730
+Hardware.Mon.#1..: Temp: 62c Util: 79% Core:1755MHz Mem:6000MHz Bus:16
+Hardware.Mon.#2..: N/A
+
+Started: Tue Aug 06 20:27:46 2024
+Stopped: Tue Aug 06 20:27:55 2024
+
+```
+
+
