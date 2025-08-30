@@ -1,0 +1,57 @@
+---
+title: Test
+layout: single
+permalink: /test/
+---
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>canada</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="nuclear-safety-and-control-act">Nuclear Safety and Control Act</h1>
+<h2 id="licences">Licences</h2>
+<h3 id="licences-1">Licences</h3>
+<p>24 (1) The Commission may establish classes of licences authorizing the licensee to carry on any activity described in any of <strong>paragraphs 26(a) to (f)</strong> that is specified in the licence for the period that is specified in the licence.</p>
+<h3 id="application">Application</h3>
+<p>(2) The Commission may issue, renew, suspend in whole or in part, amend, revoke or replace a licence, or authorize its transfer, on receipt of an application</p>
+<ul>
+<li>(a) in the prescribed form;</li>
+<li>(b) containing the prescribed information and undertakings and accompanied by the prescribed documents; and</li>
+<li>© accompanied by the prescribed fee.</li>
+</ul>
+<hr>
+<h3 id="conditions-for-issuance-etc.">Conditions for issuance, etc.</h3>
+<p>(4) No licence shall be issued, renewed, amended or replaced — and no authorization to transfer one given — unless, in the opinion of the Commission, the applicant or, in the case of an application for an authorization to transfer the licence, the transferee</p>
+<ul>
+<li>(a) is qualified to carry on the activity that the licence will authorize the licensee to carry on; and</li>
+<li>(b) will, in carrying on that activity, make adequate provision for the protection of the environment, the health and safety of persons and the maintenance of national security and measures required to implement international obligations to which Canada has agreed.</li>
+</ul>
+<blockquote>
+<p>(4) 위원회, 신청인의 의견 또는 양수인의 면허양도 신청인이 아닌 한, 어떠한 면허증도 발급, 갱신, 개정 또는 교체할 수 없으며, 주어진 —을 양도할 수 없습니다.</p>
+<ul>
+<li>(a) 면허소지자가 수행할 수 있도록 허가하는 활동을 수행할 자격이 있습니다.</li>
+<li>(b) 이러한 활동을 수행할 때, 환경 보호, 개인의 건강 및 안전, 국가 안보의 유지 및 캐나다가 동의한 국제적 의무를 이행하는 데 필요한 조치를 적절하게 마련해야 합니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h3 id="prohibitions">Prohibitions</h3>
+<p>26 Subject to the regulations, no person shall, except in accordance with a licence,</p>
+<ul>
+<li>(a) possess, transfer, import, export, use or abandon a nuclear substance, prescribed equipment or prescribed information;</li>
+<li>(b) mine, produce, refine, convert, enrich, process, reprocess, package, transport, manage, store or dispose of a nuclear substance;</li>
+<li>© produce or service prescribed equipment;</li>
+<li>(d) operate a dosimetry service for the purposes of this Act;</li>
+<li>(e) prepare a site for, construct, operate, modify, decommission or abandon a nuclear facility; or</li>
+<li>(f) construct, operate, decommission or abandon a nuclear-powered vehicle or bring a nuclear-powered vehicle into Canada.</li>
+</ul>
+</div>
+</body>
+
+</html>
