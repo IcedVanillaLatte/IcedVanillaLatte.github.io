@@ -1,0 +1,34 @@
+# main links
+main:
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
+  #- title: "External Link"
+  #  url: https://google.com
+  #  description: "Google"
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "about"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+github:
+  - title: "시작하기"
+    url: /github%20page/github-page-(1)-시작하기
+  - title: "레이아웃 정하기"
+    url: /github%20page/github-page-(2)-레이아웃
+  - title: "글쓰기"
+    url: /github%20page/github-page-(3)-글쓰기
+  - title: "LaTex 수식 표현하기"
+    url: /github%20page/github-page-(4)-LateX-Expression
+  - title: "이미지 올리기"
+    url: /github%20page/github-page-(5)-Image-upload
+  - title: "꾸미기"
+    url: /github%20page/github-page-(6)-customizing
